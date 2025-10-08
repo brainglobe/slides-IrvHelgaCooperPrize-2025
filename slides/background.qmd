@@ -1,0 +1,8 @@
+## Background
+- Imaging key to neuroscience. Excellent open source tools to process microscopy data:
+  - MRI (SPM, FSL, AFNI etc)
+  - Microscopy (FIJI etc)
+- Microscopy data in animal models, moving from small single sections to large multimodal, multidimensional datasets
+  - Requires efficient processing of large datasets, but also specific analysis requirements (cell detection etc) and “anatomical context” i.e. registration
+  - Whole brain microscopy (serial 2p, LSFM) etc becoming very popular, alongside transcriptomics etc
+-Need specific tools

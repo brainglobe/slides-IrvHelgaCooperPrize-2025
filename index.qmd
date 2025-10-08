@@ -42,5 +42,33 @@ format:
 ---
 
 ## Contents
+- Background
+- The BrainGlobe Initiative
+- Open source tools
+- Community building
+- Future
 
-Placeholder
+{{< include slides/background.qmd >}}
+
+{{< include slides/brainglobe-initiative.qmd >}}
+
+{{< include slides/brainglobe-tools.qmd >}}
+
+{{< include slides/community-building.qmd >}}
+
+{{< include slides/future.qmd >}}
+
+## Acknowledgements
+<br/>
+
+::: {.incremental style="font-size: 80%;"}
+* FOUNDERS
+* Labs and centers that have supported BrainGlobe
+* Past and present BrainGlobe contributors
+:::
+
+::: {.fragment}
+![](img/Chan_Zuckerberg_Initiative.png){.absolute height=120px top="50%" right="15%"} 
+![](img/swc.webp){.absolute height=120px top="51%" left="10%"}
+![](img/funders.webp){.absolute top=75% right=3%}
+:::

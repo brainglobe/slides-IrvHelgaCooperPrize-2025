@@ -1,0 +1,7 @@
+## Community building
+- Atlas building (reaching out to communities who don’t do this type of stuff)
+- Training, support etc etc
+- Mentored contributions
+- GSoC
+- Research software career paths
+- General OS call to action

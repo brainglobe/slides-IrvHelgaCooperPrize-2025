@@ -1,0 +1,5 @@
+## Open source tools
+- Atlas API
+- V1 whole-brain data processing tools (brainreg, cellfinder, brainglobe-segmentation)
+- visualisation
+- V2 (expanding access) more data, more atlases, GUIs

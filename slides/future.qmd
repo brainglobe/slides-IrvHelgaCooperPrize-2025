@@ -1,0 +1,7 @@
+## Future
+- Sustainability
+- Integration w wider ecosystem
+- More atlases
+- Data API
+- Community, not tool building. Helping integrate other tools within ecosystem
+- Accessibility (all definitions)
