@@ -3,3 +3,56 @@
 - Fede’s tweet (see neuromatch talk)
 - Mention natverse, template flow
 - A gap existed with a focus on whole-brain microscopy in mice, rats, zfish etc
+
+## Fragmentation
+- Many tools available, but fragmented ecosystem
+- Different programming languages (MATLAB, Python, R etc)
+- Different data formats (TIFF, NIfTI, HDF5 etc)
+- Different atlases (Allen, Kim, Waxholm etc)
+- Different species (mouse, rat, zebrafish, human etc)
+
+## BrainGlobe Atlas API
+Initial observation - lots of similar communities working independently
+
+- Model species
+- Imaging modality
+- Anatomical focus
+- Developmental stage
+
+
+::: footer
+[Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668 ](https://doi.org/10.21105/joss.02668)
+:::
+
+## Fragmetation (cont)
+- Fede's tweet (see neuromatch talk)
+
+## Efforts
+- Natverse (nat - Neuroanatomy Toolbox etc) - R, MATLAB
+- TemplateFlow - Python, R, MATLAB
+
+## BrainGlobe Initiative {.smaller}
+
+::: {.columns}
+::: {.column width="55%"}
+Established 2020 with three aims:
+
+:::{.incremental}
+1. Develop general-purpose tools to help others build interoperable software
+2. Develop specialist software for specific analysis and visualisation needs
+3. Reduce barriers of entry, and facilitate the building of an ecosystem of computational neuroanatomy tools.
+:::
+
+:::
+::: {.column width="45%"}
+![](img/tracing.png)
+:::
+:::
+
+## BrainGlobe Initiative
+- Fills gap for whole-brain microscopy in mice, rats, zebrafish etc
+- Open source, community driven
+- Python based (easy to use, powerful libraries, growing community)
+- Standardised atlases (BrainGlobe Atlas API)
+- Modular design (individual tools can be used independently or together)
+- Comprehensive documentation and tutorials

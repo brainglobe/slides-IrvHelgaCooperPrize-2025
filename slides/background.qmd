@@ -6,3 +6,24 @@
   - Requires efficient processing of large datasets, but also specific analysis requirements (cell detection etc) and “anatomical context” i.e. registration
   - Whole brain microscopy (serial 2p, LSFM) etc becoming very popular, alongside transcriptomics etc
 -Need specific tools
+
+## Motivation
+- Brodmann (1909) - cytoarchitectonic maps
+- Wilder Penfield (1950s) - cortical homunculus
+- MRI Atlas history
+  - Talairach and Tournoux (1988) - first 3D human brain atlas
+  - MNI (1990s onwards) - standardised coordinate systems
+  - HCP
+- Allen Brain Institute (2004 onwards) - digital atlases of mouse brain
+
+## MRI
+- MRI - standardised coordinate systems (MNI, Talairach etc)
+- Large open source tools (SPM, FSL, AFNI, ANTs etc)
+- Standardised processing pipelines (fMRIPrep etc)
+
+## Microscopy
+- Moving from single sections to large 3D datasets
+- Whole brain microscopy (serial 2p, LSFM) etc becoming very popular
+- Need specific tools for large datasets, registration, cell detection etc
+  - Require efficient processing of large datasets, but also specific analysis requirements (cell detection etc) and “anatomical context” i.e. registration
+- Some tools available, but fragmented ecosystem

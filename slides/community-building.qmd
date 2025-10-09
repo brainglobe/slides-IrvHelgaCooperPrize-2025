@@ -5,3 +5,57 @@
 - GSoC
 - Research software career paths
 - General OS call to action
+
+## Adding new atlases {.smaller}
+Novel or repackaged:
+
+- Latest version of Waxholm rat
+- Axolotl
+- Prarie Vole
+- Princeton RAtlas
+- Cuttlefish
+- Developmental Mouse Brain atlas
+- NHP
+- Human
+
+## Building novel atlases
+![](img/blackcap.png){fig-align="center" width=120%}
+
+::: footer
+[github.com/brainglobe/brainglobe-template-builder](https://github.com/brainglobe/brainglobe-template-builder)
+:::
+
+## Building an atlas
+
+![](img/ANTs-Template-Construction.png){.nostretch fig-align=center}
+
+::: footer
+[Devenyi, G. A. (2024). optimized_antsMultivariateTemplateConstruction (Version 1.0) [Computer software].](https://github.com/CoBrALab/optimized_antsMultivariateTemplateConstruction)
+:::
+
+## Building an atlas
+
+![](img/blackcap_figure3_SNR.png){.nostretch fig-align="center" width=95%}
+
+::: footer
+[Sirmpilatze, N. et al. (2025) "Mapping the magnetoreceptive brain: A 3D digital atlas of the migratory bird Eurasian blackcap (Sylvia atricapilla)" bioRxiv 2025.03.04.641293](https://doi.org/10.1101/2025.03.04.641293)
+:::
+
+## Building an atlas
+
+![](img/blackcap_figure3_closeupSNR.png){.nostretch fig-align="center" width=95%}
+
+::: footer
+[Sirmpilatze, N. et al. (2025) "Mapping the magnetoreceptive brain: A 3D digital atlas of the migratory bird Eurasian blackcap (Sylvia atricapilla)" bioRxiv 2025.03.04.641293](https://doi.org/10.1101/2025.03.04.641293)
+:::
+
+## Open Software Week (OSW)
+- Pictures from OSW and description
+
+## GSoC and Mentored contributions
+- GSoC
+    - `brainglobe-registration` project
+
+## Community
+- Some graphs about BrainGlobe impact (GitHub stars, forks, issues, PRs etc)
+- Global downloads, contributors, citations etc
