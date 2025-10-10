@@ -1,7 +1,7 @@
 ---
 title: The BrainGlobe Initiative
-subtitle: Open source tools and community building for computational neuroanatomy.
-author: The BrainGlobe Team
+subtitle: Open source tools and community building for computational neuroanatomy
+author: The BrainGlobe team
 execute: 
   enabled: true
 format:
@@ -11,7 +11,9 @@ format:
         footer: "[https://brainglobe.info/slides-IrvHelgaCooperPrize-2025](https://brainglobe.info/slides-IrvHelgaCooperPrize-2025) | 2025-11-10"
         slide-number: c
         menu:
-            numbers: true
+          numbers: true
+          useTextContentForMissingTitles: false 
+          hideMissingTitles: true
         chalkboard: true
         scrollable: true
         preview-links: false
@@ -44,7 +46,7 @@ format:
 ## Contents
 - Background
 - The BrainGlobe Initiative
-- Open source tools
+- Current BrainGlobe tools
 - Community building
 - Future
 
@@ -59,12 +61,12 @@ format:
 {{< include slides/future.qmd >}}
 
 ## Acknowledgements
-<br/>
-
-::: {.incremental style="font-size: 80%;"}
+::: {.incremental style="font-size: 60%;"}
 * FOUNDERS
 * Labs and centers that have supported BrainGlobe
-* Past and present BrainGlobe contributors
+  * Margrie, Branco, Portugues
+  * SWC, Technische Universität München, Max Planck Institute of Neurobiology, Paris Brain Institute
+* Past and present BrainGlobe contributors and users
 :::
 
 ::: {.fragment}

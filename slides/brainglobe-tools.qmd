@@ -1,14 +1,27 @@
-## Open source tools
+## Current BrainGlobe tools {.smaller}
 - Atlas API
 - V1 whole-brain data processing tools (brainreg, cellfinder, brainglobe-segmentation)
 - visualisation
 - V2 (expanding access) more data, more atlases, GUIs
 
 ## BrainGlobe Atlas API
+Initial observation - lots of similar communities working independently
+
+- Model species
+- Imaging modality
+- Anatomical focus
+- Developmental stage
+
+
+::: footer
+[Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668 ](https://doi.org/10.21105/joss.02668)
+:::
+
+
+## BrainGlobe Atlas API
 - Underlies all BrainGlobe tools
 - Standardised access to multiple atlases (mouse, rat, zebrafish etc)
 - Allows tools to be atlas/species agnostic
-- Easy to add new atlases (see tutorial)
 
 ## BrainGlobe Atlas API
 ### [brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)
@@ -44,59 +57,6 @@
 ::: footer
 [Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668 ](https://doi.org/10.21105/joss.02668)
 :::
-
-## BrainGlobe Atlas API {.smaller}
-```python
-from brainglobe_atlasapi import BrainGlobeAtlas
-atlas = BrainGlobeAtlas("allen_mouse_25um")
-
-reference_image = atlas.reference
-print(reference_image.shape)
-# (528, 320, 456)
-
-annotation_image = atlas.annotation
-print(annotation_image.shape)
-# (528, 320, 456)
-
-from pprint import pprint
-VISp = atlas.structures["VISp"]
-pprint(VISp)
-
-# {'acronym': 'VISp',
-#  'id': 385,
-#  'mesh': None,
-#  'mesh_filename': PosixPath('/home/user/.brainglobe/allen_mouse_25um_v0.3/meshes/385.obj'),
-#  'name': 'Primary visual area',
-#  'rgb_triplet': [8, 133, 140],
-#  'structure_id_path': [997, 8, 567, 688, 695, 315, 669, 385]}
-```
-
-::: footer
-[Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668 ](https://doi.org/10.21105/joss.02668)
-:::
-
-
-# Version 1
-
-## Whole brain microscopy {.smaller}
-::: {.columns}
-::: {.column width="33%"}
-Serial section two-photon tomography
-:::
-::: {.column width="33%"}
-Fluorescence micro-optical sectioning tomography
-:::
-::: {.column width="33%"}
-Light sheet fluorescence microscopy
-:::
-:::
-
-::: footer
-[Osten, P. , Margrie, T. W. (2013) “Mapping brain circuitry with a light microscope” Nature Methods 10, 515–523](https://doi.org/10.1038/nmeth.2477)
-:::
-
-![](img/microscopy.png){fig-align="center" width=110%}
-
 
 ## 
 ![](img/whole.png){fig-align="center" width=70%}
@@ -196,8 +156,7 @@ Light sheet fluorescence microscopy
 :::
 
 
-## Visualisation {background-video="img/cellfinder_small.mp4" background-video-loop="true"}
-### [`brainrender`](https://github.com/brainglobe/brainrender)
+## {background-video="img/cellfinder_small.mp4" background-video-loop="true"}
 
 ::: footer
 [Claudi, F. et al. (2021) “Visualizing anatomically registered data with Brainrender” eLife, 10:e65751](https://doi.org/10.7554/eLife.65751)
@@ -205,14 +164,6 @@ Light sheet fluorescence microscopy
 
 # Version 2
 Expanding access
-
-## More raw data processing
-![](img/brainglobe-stitch.png){fig-align="center"}
-
-::: footer
-[github.com/brainglobe/brainglobe-stitch](https://github.com/brainglobe/brainglobe-stitch)
-:::
-
 
 ## Consistent napari environment
 ![](img/brainrender-napari.png){fig-align="center"}
@@ -227,6 +178,3 @@ Expanding access
 ::: footer
 [github.com/brainglobe/brainglobe-registration](https://github.com/brainglobe/brainglobe-registration)
 :::
-
-
-# [BrainGlobe website](https://brainglobe.info/){preview-link="true" style="text-align: center"}

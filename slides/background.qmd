@@ -1,4 +1,4 @@
-## Background
+## Background {.smaller}
 - Imaging key to neuroscience. Excellent open source tools to process microscopy data:
   - MRI (SPM, FSL, AFNI etc)
   - Microscopy (FIJI etc)
@@ -7,23 +7,41 @@
   - Whole brain microscopy (serial 2p, LSFM) etc becoming very popular, alongside transcriptomics etc
 -Need specific tools
 
-## Motivation
+## Background
 - Brodmann (1909) - cytoarchitectonic maps
 - Wilder Penfield (1950s) - cortical homunculus
-- MRI Atlas history
-  - Talairach and Tournoux (1988) - first 3D human brain atlas
-  - MNI (1990s onwards) - standardised coordinate systems
-  - HCP
-- Allen Brain Institute (2004 onwards) - digital atlases of mouse brain
 
 ## MRI
-- MRI - standardised coordinate systems (MNI, Talairach etc)
+- MRI Atlas history
+  - Standardised coordinate systems (Talairach, MNI etc)
+  - Talairach and Tournoux
+  - MNI
 - Large open source tools (SPM, FSL, AFNI, ANTs etc)
 - Standardised processing pipelines (fMRIPrep etc)
 
-## Microscopy
+## Microscopy {.smaller}
 - Moving from single sections to large 3D datasets
 - Whole brain microscopy (serial 2p, LSFM) etc becoming very popular
 - Need specific tools for large datasets, registration, cell detection etc
   - Require efficient processing of large datasets, but also specific analysis requirements (cell detection etc) and “anatomical context” i.e. registration
 - Some tools available, but fragmented ecosystem
+- Allen Brain Institute - digital atlases of mouse brain + others
+
+## Whole brain microscopy {.smaller}
+::: {.columns}
+::: {.column width="33%"}
+Serial section two-photon tomography
+:::
+::: {.column width="33%"}
+Fluorescence micro-optical sectioning tomography
+:::
+::: {.column width="33%"}
+Light sheet fluorescence microscopy
+:::
+:::
+
+::: footer
+[Osten, P. , Margrie, T. W. (2013) “Mapping brain circuitry with a light microscope” Nature Methods 10, 515–523](https://doi.org/10.1038/nmeth.2477)
+:::
+
+![](img/microscopy.png){fig-align="center" width=110%}

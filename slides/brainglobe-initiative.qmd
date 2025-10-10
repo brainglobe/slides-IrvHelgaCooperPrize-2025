@@ -1,4 +1,4 @@
-## The BrainGlobe Initiative
+## The BrainGlobe Initiative {.smaller}
 - Narrative around building tools for specific purposes/species/atlases
 - Fede’s tweet (see neuromatch talk)
 - Mention natverse, template flow
@@ -6,30 +6,18 @@
 
 ## Fragmentation
 - Many tools available, but fragmented ecosystem
-- Different programming languages (MATLAB, Python, R etc)
-- Different data formats (TIFF, NIfTI, HDF5 etc)
-- Different atlases (Allen, Kim, Waxholm etc)
-- Different species (mouse, rat, zebrafish, human etc)
+- Specific task
+- Specific atlases
+- Specific species
 
-## BrainGlobe Atlas API
-Initial observation - lots of similar communities working independently
-
-- Model species
-- Imaging modality
-- Anatomical focus
-- Developmental stage
-
-
-::: footer
-[Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668 ](https://doi.org/10.21105/joss.02668)
-:::
-
-## Fragmetation (cont)
-- Fede's tweet (see neuromatch talk)
+##
+<div style="display:flex; justify-content:center; align-items:center;">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">neurotwitter, I&#39;m thinking of extending brainrender (<a href="https://t.co/ISYhPD7EhE">https://t.co/ISYhPD7EhE</a>) to atlases other than the Allen brain atlas. Does anyone know where I can download 3D atlases for the rat, drosophila and zebra fish brains?</p>&mdash; Federico Claudi (@Federico_claudi) <a href="https://twitter.com/Federico_claudi/status/1254726103945576449?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
 
 ## Efforts
-- Natverse (nat - Neuroanatomy Toolbox etc) - R, MATLAB
-- TemplateFlow - Python, R, MATLAB
+- Natverse (nat - Neuroanatomy Toolbox etc)
+- TemplateFlow
 
 ## BrainGlobe Initiative {.smaller}
 
@@ -49,7 +37,7 @@ Established 2020 with three aims:
 :::
 :::
 
-## BrainGlobe Initiative
+## BrainGlobe Initiative {.smaller}
 - Fills gap for whole-brain microscopy in mice, rats, zebrafish etc
 - Open source, community driven
 - Python based (easy to use, powerful libraries, growing community)

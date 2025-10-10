@@ -1,4 +1,4 @@
-## Community building
+## Community building {.smaller}
 - Atlas building (reaching out to communities who don’t do this type of stuff)
 - Training, support etc etc
 - Mentored contributions
@@ -25,7 +25,7 @@ Novel or repackaged:
 [github.com/brainglobe/brainglobe-template-builder](https://github.com/brainglobe/brainglobe-template-builder)
 :::
 
-## Building an atlas
+## Building novel atlases
 
 ![](img/ANTs-Template-Construction.png){.nostretch fig-align=center}
 
@@ -33,7 +33,7 @@ Novel or repackaged:
 [Devenyi, G. A. (2024). optimized_antsMultivariateTemplateConstruction (Version 1.0) [Computer software].](https://github.com/CoBrALab/optimized_antsMultivariateTemplateConstruction)
 :::
 
-## Building an atlas
+## Building novel atlases
 
 ![](img/blackcap_figure3_SNR.png){.nostretch fig-align="center" width=95%}
 
@@ -41,7 +41,7 @@ Novel or repackaged:
 [Sirmpilatze, N. et al. (2025) "Mapping the magnetoreceptive brain: A 3D digital atlas of the migratory bird Eurasian blackcap (Sylvia atricapilla)" bioRxiv 2025.03.04.641293](https://doi.org/10.1101/2025.03.04.641293)
 :::
 
-## Building an atlas
+## Building novel atlases
 
 ![](img/blackcap_figure3_closeupSNR.png){.nostretch fig-align="center" width=95%}
 
@@ -49,13 +49,23 @@ Novel or repackaged:
 [Sirmpilatze, N. et al. (2025) "Mapping the magnetoreceptive brain: A 3D digital atlas of the migratory bird Eurasian blackcap (Sylvia atricapilla)" bioRxiv 2025.03.04.641293](https://doi.org/10.1101/2025.03.04.641293)
 :::
 
+## Training and support
+- PhD course?
+- image.sc
+- GitHub issues etc...
+
 ## Open Software Week (OSW)
 - Pictures from OSW and description
 
 ## GSoC and Mentored contributions
 - GSoC
-    - `brainglobe-registration` project
+    - `brainglobe-registration` project?
 
 ## Community
-- Some graphs about BrainGlobe impact (GitHub stars, forks, issues, PRs etc)
+- Some graphs about BrainGlobe impact (GitHub stars, issues, PRs etc)
 - Global downloads, contributors, citations etc
+- NumFocus affiliate
+
+## Community tools
+- Papers + citations
+- Other tools using BrainGlobe tools (e.g. brainreg in other tools)
