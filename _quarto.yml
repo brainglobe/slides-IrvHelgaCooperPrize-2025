@@ -1,0 +1,26 @@
+execute: 
+  enabled: true
+format:
+    revealjs:
+        theme: [default, bg-light.scss]
+        logo: img/BG_logo.png
+        footer: "[https://brainglobe.info/slides-IrvHelgaCooperPrize-2025](https://brainglobe.info/slides-IrvHelgaCooperPrize-2025) | 2025-11-10"
+        slide-number: c
+        menu:
+          numbers: true
+          useTextContentForMissingTitles: false 
+          hideMissingTitles: true
+        chalkboard: true
+        scrollable: true
+        preview-links: false
+        view-distance: 10
+        mobile-view-distance: 10
+        auto-animate: true
+        auto-play-media: true
+        code-overflow: wrap
+        highlight-style: atom-one
+        mermaid: 
+          theme: neutral
+          fontFamily: arial
+          curve: linear
+          
