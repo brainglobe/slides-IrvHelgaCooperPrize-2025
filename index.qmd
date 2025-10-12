@@ -18,7 +18,7 @@ subtitle: Open source tools and community building for computational neuroanatom
 
 {{< include slides/community-building.qmd >}}
 
-{{< include slides/future.qmd >}}
+# Acknowledgements {visibility="hidden"}
 
 ## Acknowledgements
 ::: {.incremental style="font-size: 60%;"}
@@ -31,4 +31,14 @@ subtitle: Open source tools and community building for computational neuroanatom
 ![](img/Chan_Zuckerberg_Initiative.png){.absolute height=120px top="50%" right="15%"} 
 ![](img/swc.webp){.absolute height=120px top="51%" left="10%"}
 ![](img/funders.webp){.absolute top=75% right=3%}
+:::
+
+## Acknowledgements
+- CONTRIBUTORS
+
+
+## {background-video="img/cellfinder_small.mp4" background-video-loop="true"}
+
+::: footer
+[Claudi, F. et al. (2021) “Visualizing anatomically registered data with Brainrender” eLife, 10:e65751](https://doi.org/10.7554/eLife.65751)
 :::
