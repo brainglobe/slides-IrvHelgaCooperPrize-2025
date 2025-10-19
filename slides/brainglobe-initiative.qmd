@@ -19,8 +19,8 @@
 Established 2020 with three aims:
 
 :::{.incremental}
-1. Develop general-purpose tools to help others build interoperable software
-2. Develop specialist software for specific analysis and visualisation needs
+1. Develop general-purpose tools to help others build interoperable software for computational neuroanatomy.
+2. Develop specialist software for specific analysis and visualisation needs.
 3. Reduce barriers of entry, and facilitate the building of an ecosystem of computational neuroanatomy tools.
 :::
 
