@@ -15,13 +15,24 @@
 - Allen Brain Institute - digital atlases of mouse brain + others
 - Fine structure of brain for further insights
 
-## Microscopy {.smaller}
-- Moving from single sections to large 3D datasets
-- Whole brain microscopy (serial 2p, LSFM) etc becoming very popular
-- Need specific tools for large datasets, registration, cell detection etc
-  - Require efficient processing of large datasets, but also specific analysis requirements (cell detection etc) and “anatomical context” i.e. registration
-- Some tools available, but fragmented ecosystem
+## What is an atlas?
+:::: {.columns}
+::: {.column width="50%" .fragment style="text-align: center"}
+![](img/allen_mouse_template.png){fig-align=left}
+Template/Reference Image
+:::
 
+::: {.column width="50%" .fragment style="text-align: center"}
+![](img/allen_mouse_annotation.png){fig-align=right}
+Annotation Image
+:::
+::::
+
+::: footer
+[The Allen Mouse Brain Common Coordinate Framework](https://doi.org/10.1016/j.cell.2020.04.007)
+:::
+
+## Microscopy {.smaller}
 ## Whole brain microscopy {.smaller}
 ::: {.columns}
 ::: {.column width="33%"}
@@ -41,18 +52,46 @@ Light sheet fluorescence microscopy
 [Osten, P. , Margrie, T. W. (2013) “Mapping brain circuitry with a light microscope” Nature Methods 10, 515–523](https://doi.org/10.1038/nmeth.2477)
 :::
 
+::: {.notes}
+- Whole brain imaging was becoming more accessible, focus on LSFM vs SSTP
+- Moving from single sections to large 3D datasets
+- Whole brain microscopy (serial 2p, LSFM) etc becoming very popular
+- Need specific tools for large datasets, registration, cell detection etc
+  - Require efficient processing of large datasets, but also specific analysis requirements (cell detection etc) and “anatomical context” i.e. registration
+- Some tools available, but fragmented ecosystem
+- Imaging should feel accessible
+:::
+
+## 
+![](img/whole.png){fig-align="center" width=70%}
+
+## 
+![](img/crop.png){fig-align="center" width=70%}
+
+<!-- 
 ## MRI tool history
 - MRI Atlas history
   - Standardised coordinate systems (Talairach, MNI etc)
   - Talairach and Tournoux
   - MNI
 - Large open source tools (SPM, FSL, AFNI, ANTs etc)
-- Standardised processing pipelines (fMRIPrep etc)
+- Standardised processing pipelines (fMRIPrep etc) -->
 
 
 ## Whole brain microscopy {.smaller}
 - New tools needed and built by the Margrie lab
 - AMAP, brainreg
+- Validated registration, Osten lab also built tools (Kim et al. 2015)
+
+::: {.notes}
+- Margrie lab built some of the first tools for whole brain microscopy
+- Avoid writing the same pipelines again and again
+- Christian, Charlie, Adam
+:::
+
+## Visualisation tools {.smaller}
+- `brainrender` (Claudi et al. 2021)
+- 3D visualisation of anatomical atlases
 
 ##
 

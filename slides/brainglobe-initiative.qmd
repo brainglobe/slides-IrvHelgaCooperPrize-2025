@@ -1,16 +1,10 @@
 <!-- 
 - Narrative around building tools for specific purposes/species/atlases
-- Fede’s tweet (see neuromatch talk)
 - Mention natverse, template flow
 - A gap existed with a focus on whole-brain microscopy in mice, rats, zfish etc 
 -->
 
 # The BrainGlobe Initiative
-
-## Efforts
-- May skip this slide and just verbally acknowledge
-- Natverse (nat - Neuroanatomy Toolbox etc)
-- TemplateFlow
 
 ## BrainGlobe Initiative {.smaller}
 

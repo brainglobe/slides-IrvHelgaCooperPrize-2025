@@ -19,6 +19,10 @@ Initial observation - lots of similar communities working independently
 [Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668 ](https://doi.org/10.21105/joss.02668)
 :::
 
+::: {.notes}
+- Expand API acronym
+:::
+
 
 ## BrainGlobe Atlas API
 - Underlies all BrainGlobe tools
@@ -38,11 +42,6 @@ Initial observation - lots of similar communities working independently
 - One figure for mouse developmental atlases
 - One figure for diverse species (common and uncommon)
 
-## 
-![](img/whole.png){fig-align="center" width=70%}
-
-## 
-![](img/crop.png){fig-align="center" width=70%}
 
 ## Whole-brain registration
 ### [`brainreg`](https://github.com/brainglobe/brainreg)
@@ -76,6 +75,10 @@ Initial observation - lots of similar communities working independently
 ::: footer
 [Tyson, A. L. et al. (2021) “A deep learning algorithm for 3D cell detection in whole mouse brain image datasets" PLoS Comp Biol 17(5): e1009074.](https://doi.org/10.1371/journal.pcbi.1009074)
 :::
+
+## 3D cell detection
+- Add a figure showing heatmap/bar chart of cell counts in different regions
+- First from one brain, then across multiple brains
 
 ## Spatial analysis
 <br/>
@@ -123,12 +126,7 @@ Initial observation - lots of similar communities working independently
 [Claudi, F. et al. (2021) “Visualizing anatomically registered data with Brainrender” eLife](https://doi.org/10.7554/eLife.65751)
 :::
 
-## Version 2
-- Ensure everything is packaged and documented
-- Ensure everything is easy to install and use
-- More atlases (new atlases being added)
-- GUI (napari integration etc)
-
+# Accessibility and expansion
 ## Packaging and documentation
 - All tools on PyPI and/or CondaForge
 - All packages are maintained and updated to keep up with the broader SciPy ecosystem
@@ -136,13 +134,10 @@ Initial observation - lots of similar communities working independently
 
 ## More atlases
 - New atlases being packaged
-- Number of issues for new atlases
-- Community contributions
-
+- Show number of issues for new atlases (highlight the interest and breadth)
+- Good community contributions
 
 ## Adding new atlases {.smaller}
-Novel or repackaged:
-
 - Latest version of Waxholm rat
 - Axolotl
 - Prarie Vole
@@ -152,18 +147,14 @@ Novel or repackaged:
 - NHP
 - Human
 
-## Consistent napari environment
+## Consistent user experience
 ![](img/brainrender-napari.png){fig-align="center"}
 
 ::: footer
 [github.com/brainglobe/brainrender-napari](https://github.com/brainglobe/brainrender-napari)
 :::
 
-## Version 3
-- brainglobe-registration
-- brainglobe-template-builder
-- brainglobe-atlasapi V2
-
+# Expanding access
 ## Support for more data types
 ![](img/annotations_front_light_mode.png){fig-align="center"}
 
@@ -201,9 +192,3 @@ Novel or repackaged:
 ::: footer
 [Sirmpilatze, N. et al. (2025) "Mapping the magnetoreceptive brain: A 3D digital atlas of the migratory bird Eurasian blackcap (Sylvia atricapilla)" bioRxiv 2025.03.04.641293](https://doi.org/10.1101/2025.03.04.641293)
 :::
-
-## BrainGlobe Atlas API V2
-- Cloud optimised atlases (OME-Zarr etc)
-- Decouple all parts of an atlas
-- Allows "custom" atlases to be built from different parts
-- brainglobe-ccf-translator
