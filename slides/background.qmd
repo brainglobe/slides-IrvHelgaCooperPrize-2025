@@ -10,19 +10,22 @@
 # BrainGlobe history
 
 ## Whole brain microscopy {.smaller}
-::: {.columns}
-::: {.column width="33%"}
-Serial section two-photon tomography
-:::
-::: {.column width="33%"}
-Fluorescence micro-optical sectioning tomography
-:::
-::: {.column width="33%"}
-Light sheet fluorescence microscopy
-:::
-:::
+:::: {.columns}
+::: {.column style="text-align: center"}
+::::: {.fragment}
+![](img/microscopy_stpt.png){fig-align="center" height="500px"}
 
-![](img/microscopy.png){fig-align="center" width=110%}
+Serial section two-photon tomography
+:::::
+:::
+::: {.column style="text-align: center"}
+::::: {.fragment}
+![](img/microscopy_lsfm.png){fig-align="center" height="500px"}
+
+Light sheet fluorescence microscopy
+:::::
+:::
+::::
 
 ::: footer
 [Osten, P. , Margrie, T. W. (2013) “Mapping brain circuitry with a light microscope” Nature Methods 10, 515–523](https://doi.org/10.1038/nmeth.2477)
@@ -79,12 +82,12 @@ Annotation Image
 - Large open source tools (SPM, FSL, AFNI, ANTs etc)
 - Standardised processing pipelines (fMRIPrep etc) -->
 
-## Whole Brain Microscopy
+<!-- ## Whole Brain Microscopy
 - New tools needed and built by the Margrie lab
 - AMAP, brainreg
 - Validated registration, Osten lab also built tools (Kim et al. 2015)
 - https://www.cell.com/article/S2211-1247(14)01043-2/fulltext
-- https://www.nature.com/articles/ncomms11879
+- https://www.nature.com/articles/ncomms11879 -->
 
 ## aMAP {.smaller}
 ::: {.fragment}

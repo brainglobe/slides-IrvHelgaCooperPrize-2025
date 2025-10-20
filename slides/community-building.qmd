@@ -8,9 +8,10 @@
 
 # Community building
 
-## Supporting users
-- image.sc
-- GitHub issues etc...
+## Supporting users {.incremental}
+- Provide comprehensive documentation and tutorials
+- Be accessible via multiple channels
+- Workshops and training events
 
 ##
 
@@ -41,7 +42,7 @@
 :::
 
 ##
-![](img/log_normalised_all_by_country.png){.absolute top="20%" height="60%"}
+![](img/log_normalised_all_by_country.png){.absolute top="20%" width="100%"}
 
 ::: {.notes}
 - Download stats from PyPI for all BrainGlobe tools
@@ -57,9 +58,6 @@
 
 <iframe height="90%" width="100%" src="https://brainglobe.info/community/developers/index.html" title="BrainGlobe Tutorials"></iframe>
 
-## Developer documentation
-[![](img/developer_guide.png){fig-align="center"}](https://brainglobe.info/community/developers/index.html)
-
 ::: {.notes}
 - Everything is open from day one
 :::
@@ -68,9 +66,9 @@
 [![](img/zulip.png){fig-align="center"}](https://brainglobe.zulipchat.com/)
 
 ##
-```{=html}
+
 <iframe height="90%" width="100%" src="https://brainglobe.info/community/external-tools.html" title="BrainGlobe External Tools"></iframe>
-```
+
 
 ## Community software
 [![](img/community_software.png){fig-align="center"}](https://brainglobe.info/community/external-tools.html)

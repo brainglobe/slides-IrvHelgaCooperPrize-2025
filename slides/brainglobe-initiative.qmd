@@ -24,7 +24,7 @@ Established 2020 with three aims:
 :::
 :::
 
-## BrainGlobe Initiative {.smaller}
+## BrainGlobe Initiative
 - Modular design (individual tools can be used independently or together)
 - Open source, community driven
 - Python based (easy to use, powerful libraries, growing community)

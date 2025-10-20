@@ -81,7 +81,8 @@ Initial observation - lots of similar communities working independently
 - First from one brain, then across multiple brains
 
 ## Spatial analysis
-<br/>
+### [`brainglobe-segmentation`](https://github.com/brainglobe/brainglobe-segmentation)
+
 <br/>
 
 :::: {.columns}
@@ -101,7 +102,7 @@ Initial observation - lots of similar communities working independently
 :::
 
 ## Spatial analysis
-<br/>
+### [`brainglobe-segmentation`](https://github.com/brainglobe/brainglobe-segmentation)
 
 ![](img/brainglobe-segmentation.png){.nostretch fig-align="center" width=100%}
 
@@ -111,7 +112,7 @@ Initial observation - lots of similar communities working independently
 
 ## Visualisation
 ### [`brainrender`](https://github.com/brainglobe/brainrender)
-::: {.columns}
+:::: {.columns}
 ::: {.column width="33%"}
 ![](img/br-mouse.png){fig-align="center" height=300px}
 :::
@@ -121,9 +122,16 @@ Initial observation - lots of similar communities working independently
 ::: {.column width="33%"}
 ![](img/br-zebrafish.png){fig-align="center" height=300px}
 :::
-:::
+::::
+
 ::: footer
 [Claudi, F. et al. (2021) “Visualizing anatomically registered data with Brainrender” eLife](https://doi.org/10.7554/eLife.65751)
+:::
+
+::: {.notes}
+Left, Allen atlas of the mouse brain showing the superficial (SCs) and motor (SCm) subdivisions of the superior colliculus and the Zona Incerta (data from Wang et al., 2020)
+Middle, visualization of the precentral gyrus, postcentral gyrus, and temporal lobe of the human brain (data from Ding et al., 2016)
+Right, visualization of the cerebellum and tectum in the larval zebrafish brain (data from Kunst et al., 2019) 
 :::
 
 # Accessibility and expansion

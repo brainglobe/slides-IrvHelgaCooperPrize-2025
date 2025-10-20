@@ -17,13 +17,20 @@ subtitle: Open source tools and community building for computational neuroanatom
 
 {{< include slides/community-building.qmd >}}
 
+## Summary
+- BrainGlobe provides open source tools for computational neuroanatomy
+- Modular, interoperable, atlas-agnostic design
+- Comprehensive documentation and tutorials
+- Active and growing community of users and contributors
+
 # Acknowledgements {visibility="hidden"}
 
 ## Acknowledgements
 ::: {.incremental style="font-size: 60%;"}
-* The founders: Federico Claudi (SWC), Luigi Petrucco (Max Planck Institute of Neurobiology), Adam Tyson (SWC)
-* Now run at the Sainsbury Wellcome Centre and the Gatsby Computational Neuroscience Unit by Alessandro Felder, Igor Tatarnikov, Adam Tyson
-* Margrie, Branco, Portugues labs
+* Federico Claudi (Tiago Branco's lab, Sainsbury Wellcome Centre)
+* Luigi Petrucco (Ruben Portugues's lab, Max Planck Institute of Neurobiology)
+* Adam Tyson (Troy Margrie's lab, Sainsbury Wellcome Centre)
+* Core development team at the Sainsbury Wellcome Centre and the Gatsby Computational Neuroscience Unit
 :::
 
 ::: {.fragment}
@@ -33,7 +40,8 @@ subtitle: Open source tools and community building for computational neuroanatom
 :::
 
 ## Acknowledgements
-- CONTRIBUTORS
+
+<iframe height="80%" width="100%" src="https://brainglobe.info/people.html#contributors" title="BrainGlobe Contributors"></iframe>
 
 
 ## {background-video="img/cellfinder_small.mp4" background-video-loop="true"}
