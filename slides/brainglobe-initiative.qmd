@@ -25,8 +25,7 @@ Established 2020 with three aims:
 :::
 
 ## BrainGlobe Initiative {.smaller}
-- Fills gap for whole-brain microscopy in mice, rats, zebrafish etc
+- Modular design (individual tools can be used independently or together)
 - Open source, community driven
 - Python based (easy to use, powerful libraries, growing community)
-- Modular design (individual tools can be used independently or together)
 - Comprehensive documentation and tutorials
