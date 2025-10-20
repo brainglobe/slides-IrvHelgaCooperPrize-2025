@@ -29,12 +29,22 @@ Initial observation - lots of similar communities working independently
 - Standardised access to multiple atlases (mouse, rat, zebrafish etc)
 - Allows tools to be atlas/species agnostic
 
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Luigi Petrucco <br/>
+Federico Claudi <br/>
+Adam Tyson
+::::
+
+::: footer
+[Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668](https://doi.org/10.21105/joss.02668)
+:::
+
 ## BrainGlobe Atlas API
 ### [brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)
 ![](img/atlas.png){fig-align="center"}
 
 ::: footer
-[Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668 ](https://doi.org/10.21105/joss.02668)
+[Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668](https://doi.org/10.21105/joss.02668)
 :::
 
 ## Current atlases {.smaller}

@@ -56,7 +56,7 @@
 
 ##
 
-<iframe height="90%" width="100%" src="https://brainglobe.info/community/developers/index.html" title="BrainGlobe Tutorials"></iframe>
+<iframe height="80%" width="100%" src="https://brainglobe.info/community/developers/index.html" title="BrainGlobe Tutorials"></iframe>
 
 ::: {.notes}
 - Everything is open from day one
@@ -70,9 +70,6 @@
 <iframe height="90%" width="100%" src="https://brainglobe.info/community/external-tools.html" title="BrainGlobe External Tools"></iframe>
 
 
-## Community software
-[![](img/community_software.png){fig-align="center"}](https://brainglobe.info/community/external-tools.html)
-
 ## Community
 - Some graphs about BrainGlobe impact (GitHub stars, issues, PRs etc)
 - Cumulative "contributions" for BrainGlobe org
@@ -81,4 +78,5 @@
 [![](img/star-history-20251020.png){fig-align="center" height="500px"}](https://www.star-history.com/#brainglobe/brainrender&brainglobe/cellfinder&brainglobe/brainreg&type=date&legend=top-left)
 
 ## Publications
-- Flash author + title screenshots
+
+<iframe height="80%" width="100%" src="https://brainglobe.info/publications.html#publications-citing-brainglobe" title="BrainGlobe Publications"></iframe>

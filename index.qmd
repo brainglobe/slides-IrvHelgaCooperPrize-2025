@@ -28,7 +28,7 @@ subtitle: Open source tools and community building for computational neuroanatom
 ## Acknowledgements
 ::: {.incremental style="font-size: 60%;"}
 * Federico Claudi (Tiago Branco's lab, Sainsbury Wellcome Centre)
-* Luigi Petrucco (Ruben Portugues's lab, Max Planck Institute of Neurobiology)
+* Luigi Petrucco (Ruben Portugues' lab, Max Planck Institute of Neurobiology)
 * Adam Tyson (Troy Margrie's lab, Sainsbury Wellcome Centre)
 * Core development team at the Sainsbury Wellcome Centre and the Gatsby Computational Neuroscience Unit
 :::
