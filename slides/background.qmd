@@ -17,12 +17,12 @@
 
 ## What is an atlas?
 :::: {.columns}
-::: {.column width="50%" .fragment style="text-align: center"}
+::: {.column style="text-align: center"}
 ![](img/allen_mouse_template.png){fig-align=left}
 Template/Reference Image
 :::
 
-::: {.column width="50%" .fragment style="text-align: center"}
+::: {.column style="text-align: center"}
 ![](img/allen_mouse_annotation.png){fig-align=right}
 Annotation Image
 :::
@@ -32,7 +32,6 @@ Annotation Image
 [The Allen Mouse Brain Common Coordinate Framework](https://doi.org/10.1016/j.cell.2020.04.007)
 :::
 
-## Microscopy {.smaller}
 ## Whole brain microscopy {.smaller}
 ::: {.columns}
 ::: {.column width="33%"}
@@ -82,6 +81,7 @@ Light sheet fluorescence microscopy
 - New tools needed and built by the Margrie lab
 - AMAP, brainreg
 - Validated registration, Osten lab also built tools (Kim et al. 2015)
+- https://www.nature.com/articles/ncomms11879
 
 ::: {.notes}
 - Margrie lab built some of the first tools for whole brain microscopy

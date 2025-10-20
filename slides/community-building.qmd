@@ -9,29 +9,78 @@
 # Community building
 
 ## Supporting users
-- Documentation, training
 - image.sc
 - GitHub issues etc...
-- Figure of worldwide user distribution
+
+##
+
+<iframe height="90%" width="100%" src="https://brainglobe.info/tutorials/index.html" title="BrainGlobe Tutorials"></iframe>
+
+##
+[![](img/tutorials.png)](https://brainglobe.info/tutorials/index.html)
+
+##
+[![](img/image_sc.png)](https://forum.image.sc/tag/brainglobe)
 
 ## Open Software Summer School (OSSS)
-- Pictures from OSSS and description
+::: {.fragment}
+![](img/OSSS_working.jpg){.absolute top="25%" left="0%" height="65%"}
+:::
+
+::: {.fragment}
+![](img/OSSS_tutoring.jpg){.absolute top="27.5%" left="20%" height="65%"}
+:::
+
+::: {.fragment}
+![](img/OSSS_OME.jpg){.absolute top="30%" left="40%" height="65%"}
+:::
+
+::: {.notes}
+- Need numbers for attendees, countries etc
+- Outline the purpose of the school
+:::
+
+##
+![](img/log_normalised_all_by_country.png){.absolute top="20%" height="60%"}
+
+::: {.notes}
+- Download stats from PyPI for all BrainGlobe tools
+- Normalize by pop size and log scale
+:::
 
 ## Supporting contributors
-- Contributor documentation
-- Everything is open from day 1
 - Zulip, dev meetings etc
 - Integration with other tools
 - Small soap box about funding especially for maintenance
 
-## GSoC and Mentored contributions
-- GSoC
-    - `brainglobe-registration` project?
+##
+
+<iframe height="90%" width="100%" src="https://brainglobe.info/community/developers/index.html" title="BrainGlobe Tutorials"></iframe>
+
+## Developer documentation
+[![](img/developer_guide.png){fig-align="center"}](https://brainglobe.info/community/developers/index.html)
+
+::: {.notes}
+- Everything is open from day one
+:::
+
+## Developer documentation
+[![](img/zulip.png){fig-align="center"}](https://brainglobe.zulipchat.com/)
+
+##
+```{=html}
+<iframe height="90%" width="100%" src="https://brainglobe.info/community/external-tools.html" title="BrainGlobe External Tools"></iframe>
+```
+
+## Community software
+[![](img/community_software.png){fig-align="center"}](https://brainglobe.info/community/external-tools.html)
 
 ## Community
 - Some graphs about BrainGlobe impact (GitHub stars, issues, PRs etc)
-- Global downloads, contributors, citations etc
 - Cumulative "contributions" for BrainGlobe org
 
-## Community tools
+## Community
+[![](img/star-history-20251020.png){fig-align="center" height="500px"}](https://www.star-history.com/#brainglobe/brainrender&brainglobe/cellfinder&brainglobe/brainreg&type=date&legend=top-left)
+
+## Publications
 - Flash author + title screenshots

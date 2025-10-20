@@ -2,7 +2,7 @@ execute:
   enabled: true
 format:
     revealjs:
-        theme: [default, bg-light.scss]
+        theme: [bg-light.scss]
         logo: img/BG_logo.png
         footer: "[https://brainglobe.info/slides-IrvHelgaCooperPrize-2025](https://brainglobe.info/slides-IrvHelgaCooperPrize-2025) | 2025-11-10"
         slide-number: c

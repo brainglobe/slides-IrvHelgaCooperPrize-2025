@@ -10,3 +10,11 @@ $mermaid-font-family: arial;
 .reveal .footer {
     font-size: 0.35em !important;
   }
+
+.reveal .slides section .fragment.blur {
+  filter: grayscale(100%);
+}
+
+.reveal .slides section .fragment.blur.visible {
+  filter: none
+}

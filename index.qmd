@@ -5,10 +5,9 @@ subtitle: Open source tools and community building for computational neuroanatom
 
 ## Contents
 - Background
-- The BrainGlobe Initiative
+- BrainGlobe Initiative
 - Current BrainGlobe tools
 - Community building
-- Future
 
 {{< include slides/background.qmd >}}
 
