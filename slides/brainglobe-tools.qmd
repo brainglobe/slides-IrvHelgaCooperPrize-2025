@@ -14,6 +14,11 @@ Initial observation - lots of similar communities working independently
 - Anatomical focus
 - Developmental stage
 
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Luigi Petrucco <br/>
+Federico Claudi <br/>
+Adam Tyson
+::::
 
 ::: footer
 [Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668](https://doi.org/10.21105/joss.02668)
@@ -43,6 +48,12 @@ Adam Tyson
 ### [brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)
 ![](img/atlas.png){fig-align="center"}
 
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Luigi Petrucco <br/>
+Federico Claudi <br/>
+Adam Tyson
+::::
+
 ::: footer
 [Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668](https://doi.org/10.21105/joss.02668)
 :::
@@ -52,11 +63,22 @@ Adam Tyson
 - One figure for mouse developmental atlases
 - One figure for diverse species (common and uncommon)
 
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Luigi Petrucco <br/>
+Federico Claudi <br/>
+Adam Tyson
+::::
 
 ## Whole-brain registration
 ### [`brainreg`](https://github.com/brainglobe/brainreg)
 
 ![](img/brainreg.png){fig-align="center" width=110%}
+
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Christian Niedwork<br/>
+Charlie Rousseau<br/>
+Adam Tyson
+::::
 
 ::: footer
 [Tyson, A. L. et al. (2022) “Accurate determination of marker location within whole-brain microscopy images” Sci Rep, 12, 867](https://doi.org/10.1038/s41598-021-04676-9)
@@ -66,6 +88,12 @@ Adam Tyson
 ### [`cellfinder`](https://github.com/brainglobe/cellfinder)
 ![](img/raw.png){fig-align="center" width=70%}
 
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Christian Niedwork<br/>
+Charlie Rousseau<br/>
+Adam Tyson
+::::
+
 ::: footer
 [Tyson, A. L. et al. (2021) “A deep learning algorithm for 3D cell detection in whole mouse brain image datasets" PLoS Comp Biol 17(5): e1009074.](https://doi.org/10.1371/journal.pcbi.1009074)
 :::
@@ -74,6 +102,12 @@ Adam Tyson
 ### [`cellfinder`](https://github.com/brainglobe/cellfinder)
 ![](img/classify.png){fig-align="center" width=70%}
 
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Christian Niedwork<br/>
+Charlie Rousseau<br/>
+Adam Tyson
+::::
+
 ::: footer
 [Tyson, A. L. et al. (2021) “A deep learning algorithm for 3D cell detection in whole mouse brain image datasets" PLoS Comp Biol 17(5): e1009074.](https://doi.org/10.1371/journal.pcbi.1009074)
 :::
@@ -81,6 +115,12 @@ Adam Tyson
 ## 3D cell detection
 ### [`brainmapper`](https://github.com/brainglobe/brainglobe-workflows)
 ![](img/cells.png){fig-align="center" width=70%}
+
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Christian Niedwork<br/>
+Charlie Rousseau<br/>
+Adam Tyson
+::::
 
 ::: footer
 [Tyson, A. L. et al. (2021) “A deep learning algorithm for 3D cell detection in whole mouse brain image datasets" PLoS Comp Biol 17(5): e1009074.](https://doi.org/10.1371/journal.pcbi.1009074)
@@ -107,6 +147,12 @@ Adam Tyson
 
 ::::
 
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Mateo Vélez-Fort<br/>
+Charlie Rousseau<br/>
+Adam Tyson
+::::
+
 ::: footer
 [Tyson, A. L. et al. (2022) “Accurate determination of marker location within whole-brain microscopy images” Sci Rep, 12, 867](https://doi.org/10.1038/s41598-021-04676-9)
 :::
@@ -115,6 +161,12 @@ Adam Tyson
 ### [`brainglobe-segmentation`](https://github.com/brainglobe/brainglobe-segmentation)
 
 ![](img/brainglobe-segmentation.png){.nostretch fig-align="center" width=100%}
+
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Mateo Vélez-Fort<br/>
+Charlie Rousseau<br/>
+Adam Tyson
+::::
 
 ::: footer
 [Tyson, A. L., et al. (2022) “Accurate determination of marker location within whole-brain microscopy images” Scientific Reports, 12, 867](https://doi.org/10.1038/s41598-021-04676-9)
@@ -132,6 +184,12 @@ Adam Tyson
 ::: {.column width="33%"}
 ![](img/br-zebrafish.png){fig-align="center" height=300px}
 :::
+::::
+
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+Federico Claudi<br/>
+Luigi Petrucco<br/>
+Adam Tyson
 ::::
 
 ::: footer
