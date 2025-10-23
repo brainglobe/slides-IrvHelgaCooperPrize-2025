@@ -1,13 +1,16 @@
 ---
 title: The BrainGlobe Initiative
-subtitle: Open source tools and community building for computational neuroanatomy
+subtitle: Open source tools and community building<br/> for computational neuroanatomy
+custom-font-sizes:
+    attribution-font-size: 0.3em
 ---
 
 ## Contents
-- BrainGlobe history
-- BrainGlobe Initiative
+::: {.incremental}
+- History of the BrainGlobe Initiative
 - Current BrainGlobe tools
-- Community building
+- Community building efforts
+:::
 
 {{< include slides/background.qmd >}}
 
@@ -18,19 +21,20 @@ subtitle: Open source tools and community building for computational neuroanatom
 {{< include slides/community-building.qmd >}}
 
 ## Summary
+::: {.incremental}
 - BrainGlobe provides open source tools for computational neuroanatomy
 - Modular, interoperable, atlas-agnostic design
-- Comprehensive documentation and tutorials
 - Active and growing community of users and contributors
+    - Comprehensive documentation and tutorials
+    - Ongoing development and maintenance
+    - Workshops and training events
+:::
 
 # Acknowledgements {visibility="hidden"}
 
 ## Acknowledgements
 ::: {.incremental style="font-size: 60%;"}
-* Federico Claudi (Tiago Branco's lab, Sainsbury Wellcome Centre)
-* Luigi Petrucco (Ruben Portugues' lab, Max Planck Institute of Neurobiology)
-* Adam Tyson (Troy Margrie's lab, Sainsbury Wellcome Centre)
-* Core development team at the Sainsbury Wellcome Centre and the Gatsby Computational Neuroscience Unit
+Federico Claudi, Luigi Petrucco, Adam Tyson, Troy Margrie, Tiago Branco, Ruben Portugues, Charly Rousseau, Christian Niedworok, Alessandro Felder, Nikoloz Sirmpilatze, Simon Weiler, Mateo Vélez-Fort
 :::
 
 ::: {.fragment}

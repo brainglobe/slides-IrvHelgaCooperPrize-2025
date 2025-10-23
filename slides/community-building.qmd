@@ -8,22 +8,22 @@
 
 # Community building
 
-## Supporting users {.incremental}
+## Supporting users
+::: {.incremental}
+- Reduce barriers of entry
 - Provide comprehensive documentation and tutorials
-- Be accessible via multiple channels
+- Support users via multiple channels (forum, chat, GitHub issues)
 - Workshops and training events
+:::
 
 ##
 
 <iframe height="90%" width="100%" src="https://brainglobe.info/tutorials/index.html" title="BrainGlobe Tutorials"></iframe>
 
 ##
-[![](img/tutorials.png)](https://brainglobe.info/tutorials/index.html)
-
-##
 [![](img/image_sc.png)](https://forum.image.sc/tag/brainglobe)
 
-## Open Software Summer School (OSSS)
+## Workshops and training
 ::: {.fragment}
 ![](img/OSSS_working.jpg){.absolute top="25%" left="0%" height="65%"}
 :::
@@ -49,12 +49,14 @@
 - Normalize by pop size and log scale
 :::
 
-## Supporting contributors
-- Zulip, dev meetings etc
-- Integration with other tools
-- Small soap box about funding especially for maintenance
+## Publications
 
-##
+<iframe height="80%" width="100%" src="https://brainglobe.info/publications.html#publications-citing-brainglobe" title="BrainGlobe Publications"></iframe>
+
+## Supporting contributors
+[![](img/zulip.png){fig-align="center"}](https://brainglobe.zulipchat.com/)
+
+## Supporting contributors
 
 <iframe height="80%" width="100%" src="https://brainglobe.info/community/developers/index.html" title="BrainGlobe Tutorials"></iframe>
 
@@ -62,21 +64,12 @@
 - Everything is open from day one
 :::
 
-## Developer documentation
-[![](img/zulip.png){fig-align="center"}](https://brainglobe.zulipchat.com/)
-
-##
+## External tools
 
 <iframe height="90%" width="100%" src="https://brainglobe.info/community/external-tools.html" title="BrainGlobe External Tools"></iframe>
-
-
-## Community
-- Some graphs about BrainGlobe impact (GitHub stars, issues, PRs etc)
-- Cumulative "contributions" for BrainGlobe org
 
 ## Community
 [![](img/star-history-20251020.png){fig-align="center" height="500px"}](https://www.star-history.com/#brainglobe/brainrender&brainglobe/cellfinder&brainglobe/brainreg&type=date&legend=top-left)
 
-## Publications
-
-<iframe height="80%" width="100%" src="https://brainglobe.info/publications.html#publications-citing-brainglobe" title="BrainGlobe Publications"></iframe>
+## Open Software Summer School
+- Advertise OSSS 2026, call for applications soon (link to website)

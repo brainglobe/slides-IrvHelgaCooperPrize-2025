@@ -3,9 +3,12 @@
 $body-bg: #fff !default;
 $body-color: #4f4e4e !default;
 $link-color: #ee9040 !default;
-$font-family-sans-serif: arial, "open sans", "helvetica neue", helvetica, sans-serif !default;
 $mermaid-font-family: arial;
+$presentation-h1-font-size: 2.0em !default;
+$presentation-title-slide-text-align: left !default;
 /*-- scss:rules --*/
+
+.reveal .slide 
 
 .reveal .footer {
     font-size: 0.35em !important;

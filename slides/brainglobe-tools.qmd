@@ -6,15 +6,15 @@
 
 # BrainGlobe tools
 
-## BrainGlobe Atlas API
-Initial observation - lots of similar communities working independently
+## BrainGlobe atlases
+Initial observation - many communities working independently
 
 - Model species
 - Imaging modality
 - Anatomical focus
 - Developmental stage
 
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Luigi Petrucco <br/>
 Federico Claudi <br/>
 Adam Tyson
@@ -29,12 +29,14 @@ Adam Tyson
 :::
 
 
-## BrainGlobe Atlas API
+## BrainGlobe atlases
+::: {.incremental}
 - Underlies all BrainGlobe tools
 - Standardised access to multiple atlases (mouse, rat, zebrafish etc)
 - Allows tools to be atlas/species agnostic
+:::
 
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Luigi Petrucco <br/>
 Federico Claudi <br/>
 Adam Tyson
@@ -44,11 +46,11 @@ Adam Tyson
 [Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668](https://doi.org/10.21105/joss.02668)
 :::
 
-## BrainGlobe Atlas API
+## BrainGlobe atlases
 ### [brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)
 ![](img/atlas.png){fig-align="center"}
 
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Luigi Petrucco <br/>
 Federico Claudi <br/>
 Adam Tyson
@@ -58,25 +60,55 @@ Adam Tyson
 [Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668](https://doi.org/10.21105/joss.02668)
 :::
 
-## Current atlases {.smaller}
-- One figure of multiple annotation and template images in mouse
-- One figure for mouse developmental atlases
-- One figure for diverse species (common and uncommon)
+## BrainGlobe atlases
+![](img/demba_only.gif){fig-align="center"}
 
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Luigi Petrucco <br/>
 Federico Claudi <br/>
 Adam Tyson
 ::::
+
+::: footer
+[Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668](https://doi.org/10.21105/joss.02668)
+:::
+
+## BrainGlobe atlases
+::: {.fragment}
+![](img/Mus musculus_kim_mouse_10um_coronal_slice0660.png){.absolute top="15%" left="60%" height="35%"}
+
+![](img/Mus musculus_allen_mouse_bluebrain_barrels_10um_coronal_slice0660.png){.absolute top="15%" left="30%" height="35%"}
+
+![](img/Mus musculus_allen_mouse_10um_coronal_slice0660.png){.absolute top="15%" left="0%" height="35%"}
+:::
+
+::: {.fragment}
+![](img/princeton_template.png){.absolute top="55%" left="60%" height="25%"}
+
+![](img/lsfm_template.png){.absolute top="55%" left="30%" height="25%"}
+
+![](img/allen_template.png){.absolute top="55%" left="0%" height="25%"}
+:::
+
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
+Luigi Petrucco <br/>
+Federico Claudi <br/>
+Adam Tyson
+::::
+
+::: footer
+[Claudi, F. et al. (2020) “BrainGlobe Atlas API: a common interface for neuroanatomical atlases” JOSS, v5(54), 2668](https://doi.org/10.21105/joss.02668)
+:::
+
 
 ## Whole-brain registration
 ### [`brainreg`](https://github.com/brainglobe/brainreg)
 
 ![](img/brainreg.png){fig-align="center" width=110%}
 
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Christian Niedwork<br/>
-Charlie Rousseau<br/>
+Charly Rousseau<br/>
 Adam Tyson
 ::::
 
@@ -88,9 +120,9 @@ Adam Tyson
 ### [`cellfinder`](https://github.com/brainglobe/cellfinder)
 ![](img/raw.png){fig-align="center" width=70%}
 
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Christian Niedwork<br/>
-Charlie Rousseau<br/>
+Charly Rousseau<br/>
 Adam Tyson
 ::::
 
@@ -102,9 +134,9 @@ Adam Tyson
 ### [`cellfinder`](https://github.com/brainglobe/cellfinder)
 ![](img/classify.png){fig-align="center" width=70%}
 
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Christian Niedwork<br/>
-Charlie Rousseau<br/>
+Charly Rousseau<br/>
 Adam Tyson
 ::::
 
@@ -116,9 +148,9 @@ Adam Tyson
 ### [`brainmapper`](https://github.com/brainglobe/brainglobe-workflows)
 ![](img/cells.png){fig-align="center" width=70%}
 
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Christian Niedwork<br/>
-Charlie Rousseau<br/>
+Charly Rousseau<br/>
 Adam Tyson
 ::::
 
@@ -130,41 +162,15 @@ Adam Tyson
 - Add a figure showing heatmap/bar chart of cell counts in different regions
 - First from one brain, then across multiple brains
 
-## Spatial analysis
-### [`brainglobe-segmentation`](https://github.com/brainglobe/brainglobe-segmentation)
-
-<br/>
-
-:::: {.columns}
-
-::: {.column width="77%"}
-![](img/brainglobe-seg-main.png){.nostretch fig-align="right" height=80%}
-:::
-
-::: {.column width="23%"}
-![](img/brainglobe-seg-out.png){.nostretch fig-align="left" height=80%}
-:::
-
-::::
-
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
-Mateo Vélez-Fort<br/>
-Charlie Rousseau<br/>
-Adam Tyson
-::::
-
-::: footer
-[Tyson, A. L. et al. (2022) “Accurate determination of marker location within whole-brain microscopy images” Sci Rep, 12, 867](https://doi.org/10.1038/s41598-021-04676-9)
-:::
 
 ## Spatial analysis
 ### [`brainglobe-segmentation`](https://github.com/brainglobe/brainglobe-segmentation)
 
 ![](img/brainglobe-segmentation.png){.nostretch fig-align="center" width=100%}
 
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Mateo Vélez-Fort<br/>
-Charlie Rousseau<br/>
+Charly Rousseau<br/>
 Adam Tyson
 ::::
 
@@ -186,7 +192,7 @@ Adam Tyson
 :::
 ::::
 
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.5em;"}
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Federico Claudi<br/>
 Luigi Petrucco<br/>
 Adam Tyson
@@ -202,68 +208,78 @@ Middle, visualization of the precentral gyrus, postcentral gyrus, and temporal l
 Right, visualization of the cerebellum and tectum in the larval zebrafish brain (data from Kunst et al., 2019) 
 :::
 
-# Accessibility and expansion
-## Packaging and documentation
-- All tools on PyPI and/or CondaForge
-- All packages are maintained and updated to keep up with the broader SciPy ecosystem
-- Documentation, tutorials, and example data available
-
+# Expanding access
 ## More atlases
+::: {.incremental}
 - New atlases being packaged
 - Show number of issues for new atlases (highlight the interest and breadth)
 - Good community contributions
-
-## Adding new atlases {.smaller}
-- Latest version of Waxholm rat
-- Axolotl
-- Prarie Vole
-- Princeton RAtlas
-- Cuttlefish
-- Developmental Mouse Brain atlas
-- NHP
-- Human
-
-## Consistent user experience
-![](img/brainrender-napari.png){fig-align="center"}
-
-::: footer
-[github.com/brainglobe/brainrender-napari](https://github.com/brainglobe/brainrender-napari)
 :::
 
-# Expanding access
+## Consistent user experience
+![](img/brainrender-napari.png){fig-align="center" height="530px"}
+
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
+Alessandro Felder<br/>
+Adam Tyson
+::::
+
+::: footer
+[https://github.com/brainglobe/brainrender-napari](https://github.com/brainglobe/brainrender-napari)
+:::
+
 ## Support for more data types
 ![](img/annotations_front_light_mode.png){fig-align="center"}
 
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
+Igor Tatarnikov<br/>
+Adam Tyson
+::::
+
 ::: footer
-[github.com/brainglobe/brainglobe-registration](https://github.com/brainglobe/brainglobe-registration)
+[https://github.com/brainglobe/brainglobe-registration](https://github.com/brainglobe/brainglobe-registration)
 :::
 
 ## Building novel atlases
 ![](img/blackcap.png){fig-align="center" width=120%}
 
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
+Simon Weiler<br/>
+Dinora Abdulazhanova<br/>
+Niko Sirmpilatze<br/>
+Alessandro Felder<br/>
+Adam Tyson
+::::
+
 ::: footer
-[github.com/brainglobe/brainglobe-template-builder](https://github.com/brainglobe/brainglobe-template-builder)
+[https://github.com/brainglobe/brainglobe-template-builder](https://github.com/brainglobe/brainglobe-template-builder)
 :::
 
-## Building novel atlases
+<!-- ## Building novel atlases
 
 ![](img/ANTs-Template-Construction.png){.nostretch fig-align=center}
 
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
+Niko Sirmpilatze<br/>
+Alessandro Felder<br/>
+Adam Tyson
+::::
+
 ::: footer
 [Devenyi, G. A. (2024). optimized_antsMultivariateTemplateConstruction (Version 1.0) [Computer software].](https://github.com/CoBrALab/optimized_antsMultivariateTemplateConstruction)
-:::
+::: -->
 
 ## Building novel atlases
 
-![](img/blackcap_figure3_SNR.png){.nostretch fig-align="center" width=95%}
+![](img/blackcap_figure3_closeupSNR.png){.nostretch fig-align="center" width=90%}
 
-::: footer
-[Sirmpilatze, N. et al. (2025) "Mapping the magnetoreceptive brain: A 3D digital atlas of the migratory bird Eurasian blackcap (Sylvia atricapilla)" bioRxiv 2025.03.04.641293](https://doi.org/10.1101/2025.03.04.641293)
-:::
-
-## Building novel atlases
-
-![](img/blackcap_figure3_closeupSNR.png){.nostretch fig-align="center" width=95%}
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
+Simon Weiler<br/>
+Dinora Abdulazhanova<br/>
+Niko Sirmpilatze<br/>
+Alessandro Felder<br/>
+Adam Tyson
+::::
 
 ::: footer
 [Sirmpilatze, N. et al. (2025) "Mapping the magnetoreceptive brain: A 3D digital atlas of the migratory bird Eurasian blackcap (Sylvia atricapilla)" bioRxiv 2025.03.04.641293](https://doi.org/10.1101/2025.03.04.641293)

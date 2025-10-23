@@ -89,14 +89,19 @@ Annotation Image
 - https://www.cell.com/article/S2211-1247(14)01043-2/fulltext
 - https://www.nature.com/articles/ncomms11879 -->
 
-## aMAP {.smaller}
+## aMAP
 ::: {.fragment}
 ![](img/aMAP_fig1.webp){.absolute width="35%" top="15%" left="0%"}
 :::
 
 ::: {.fragment}
-![](img/aMAP_fig2_cropped.jpg){.absolute width="60%" top="10%" right="0%"}
+![](img/aMAP_fig2_cropped.jpg){.absolute width="50%" top="15%" right="5%"}
 :::
+
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
+Charly Rousseau<br/>
+Chiristian Niedworok<br/>
+::::
 
 ::: footer
 [Niedworok, C. et al. (2016) “aMAP is a validated pipeline for registration and segmentation of high-resolution mouse brain data” Nat Commun 7, 11879](https://doi.org/10.1038/ncomms11879)
@@ -121,8 +126,21 @@ Annotation Image
 [Kim, Y. et al. (2015) “Mapping Social Behavior-Induced Brain Activation at Cellular Resolution in the Mouse” Cell Reports 10(2), 292-305](https://doi.org/10.1016/j.celrep.2014.12.014)
 :::
 
+## 3D cell detection
+- Show work related to `cellfinder` prior to BrainGlobe
+
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
+Charly Rousseau<br/>
+Chiristian Niedworok<br/>
+::::
+
 ## Visualisation
-![](img/brainrender_gui.jpg){fig-align="center"}
+![](img/brainrender_shot.png){fig-align="left"}
+
+:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
+Federico Claudi<br/>
+Adam Tyson
+::::
 
 ::: footer
 [Claudi, F. et al. (2021) “Visualizing anatomically registered data with Brainrender” eLife, 10:e65751](https://doi.org/10.7554/eLife.65751)
@@ -134,7 +152,9 @@ Annotation Image
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">neurotwitter, I&#39;m thinking of extending brainrender (<a href="https://t.co/ISYhPD7EhE">https://t.co/ISYhPD7EhE</a>) to atlases other than the Allen brain atlas. Does anyone know where I can download 3D atlases for the rat, drosophila and zebra fish brains?</p>&mdash; Federico Claudi (@Federico_claudi) <a href="https://twitter.com/Federico_claudi/status/1254726103945576449?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 
-## What was missing? {.incremental}
+## What was missing?
+::: {.incremental}
 - Single atlas and single species tools
-- Lots of similar communities working independently
+- Multiple communities working independently
 - Lack of community support and documentation
+:::
