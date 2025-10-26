@@ -67,6 +67,10 @@
 ![](img/brain_regions_coronal.png){.absolute top="35%" left="65%" width="35%"}
 :::
 
+::: {.fragment}
+![](img/brain_regions_coronal_with_plane.png){.absolute top="35%" left="65%" width="35%"}
+:::
+
 ## Circuits in microscopy
 ::: {.fragment}
 ![](img/brain_regions_coronal_comp.png){.absolute top="40%" left="0%" width="35%"}
@@ -127,23 +131,6 @@ NEED TO CITE THIS DATA SOURCE
 - Registration to an atlas is key to provide anatomical context
 :::
 
-<!-- ## What is an atlas?
-:::: {.columns}
-::: {.column style="text-align: center"}
-![](img/allen_mouse_template.png){fig-align=left}
-Template/Reference Image
-:::
-
-::: {.column style="text-align: center"}
-![](img/allen_mouse_annotation.png){fig-align=right}
-Annotation Image
-:::
-::::
-
-::: footer
-[The Allen Mouse Brain Common Coordinate Framework](https://doi.org/10.1016/j.cell.2020.04.007)
-::: -->
-
 ## aMAP
 ![](img/amap_cropped.png){fig-align="center" width=90%}
 
@@ -171,26 +158,18 @@ Annotation Image
 
 ## Other pipelines
 ::: {.fragment}
-![](img/kim_2015_fig1_top.jpg){.absolute width="50%" top="22%" left="0%"}
+![](img/kim_2015_fig1_plan_only.jpg){.absolute width="60%" top="20%" left="20%"}
 :::
 
 ::: {.fragment}
-![](img/kim_2015_fig1_bottom.jpg){.absolute width="50%" top="35%" right="0%"}
+![](img/kim_2015_fig1_bottom.jpg){.absolute width="70%" top="40%" right="15%"}
 :::
 
 ::: footer
 [Kim, Y. et al. (2015) “Mapping Social Behavior-Induced Brain Activation at Cellular Resolution in the Mouse” Cell Reports 10(2), 292-305](https://doi.org/10.1016/j.celrep.2014.12.014)
 :::
 
-## 3D cell detection
-- Show work related to `cellfinder` prior to BrainGlobe
-
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
-Charly Rousseau<br/>
-Chiristian Niedworok<br/>
-::::
-
-## Visualisation
+<!-- ## Visualisation
 ![](img/brainrender_shot.png){fig-align="left"}
 
 :::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
@@ -200,7 +179,7 @@ Adam Tyson
 
 ::: footer
 [Claudi, F. et al. (2021) “Visualizing anatomically registered data with Brainrender” eLife, 10:e65751](https://doi.org/10.7554/eLife.65751)
-:::
+::: -->
 
 ##
 
@@ -208,9 +187,9 @@ Adam Tyson
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">neurotwitter, I&#39;m thinking of extending brainrender (<a href="https://t.co/ISYhPD7EhE">https://t.co/ISYhPD7EhE</a>) to atlases other than the Allen brain atlas. Does anyone know where I can download 3D atlases for the rat, drosophila and zebra fish brains?</p>&mdash; Federico Claudi (@Federico_claudi) <a href="https://twitter.com/Federico_claudi/status/1254726103945576449?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 
-## What was missing?
+## What was needed?
 ::: {.incremental}
-- Single atlas and single species tools
-- Multiple communities working independently
-- Lack of community support and documentation
+- Tools supporting multiple atlases from multiple species
+- Communities working together to deduplicate effort
+- Community support and documentation
 :::

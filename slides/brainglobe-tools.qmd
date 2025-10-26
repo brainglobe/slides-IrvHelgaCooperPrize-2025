@@ -255,20 +255,6 @@ Adam Tyson
 [https://github.com/brainglobe/brainglobe-template-builder](https://github.com/brainglobe/brainglobe-template-builder)
 :::
 
-<!-- ## Building novel atlases
-
-![](img/ANTs-Template-Construction.png){.nostretch fig-align=center}
-
-:::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
-Niko Sirmpilatze<br/>
-Alessandro Felder<br/>
-Adam Tyson
-::::
-
-::: footer
-[Devenyi, G. A. (2024). optimized_antsMultivariateTemplateConstruction (Version 1.0) [Computer software].](https://github.com/CoBrALab/optimized_antsMultivariateTemplateConstruction)
-::: -->
-
 ## Building novel atlases
 
 ![](img/blackcap_figure3_closeupSNR.png){.nostretch fig-align="center" width=90%}

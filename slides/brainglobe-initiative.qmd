@@ -25,9 +25,24 @@ Established 2020 with three aims:
 :::
 
 ## BrainGlobe Initiative
-::: {.incremental}
-- Modular design (individual tools can be used independently or together)
-- Open source, community driven
-- Python based (easy to use, powerful libraries, growing community)
-- Comprehensive documentation and tutorials
+::: {.fragment .fade-out fragment-index=1}
+![](img/Scientific-Python-Ecosystem.png){.absolute top="20%" left="10%" width="80%"}
+:::
+
+::: {.fragment .fade-in fragment-index=1}
+![](img/Scientific-Python-Ecosystem.png){.absolute top="20%" left="5%" width="40%"}
+:::
+
+::: {.fragment}
+![](img/Open_Source_Initiative.svg){.absolute top="20%" right="15%" height="30%"}
+:::
+
+::: {.fragment}
+<!-- Comprehensive documentation and tutorials -->
+![](img/python-logo-generic.svg){.absolute top="60%" left="5%" width="40%"}
+:::
+
+::: {.fragment}
+<!-- Modular design -->
+![](img/python-logo-generic.svg){.absolute top="60%" right="5%" width="40%"}
 :::

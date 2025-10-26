@@ -49,10 +49,6 @@
 - Normalize by pop size and log scale
 :::
 
-## Publications
-
-<iframe height="80%" width="100%" src="https://brainglobe.info/publications.html#publications-citing-brainglobe" title="BrainGlobe Publications"></iframe>
-
 ## Supporting contributors
 [![](img/zulip.png){fig-align="center"}](https://brainglobe.zulipchat.com/)
 
@@ -69,7 +65,13 @@
 <iframe height="90%" width="100%" src="https://brainglobe.info/community/external-tools.html" title="BrainGlobe External Tools"></iframe>
 
 ## Community
-[![](img/star-history-20251020.png){fig-align="center" height="500px"}](https://www.star-history.com/#brainglobe/brainrender&brainglobe/cellfinder&brainglobe/brainreg&type=date&legend=top-left)
+::: {.fragment}
+![](figures/cumulative_engagements.png){.absolute top="25%" left="0%" width="45%"}
+:::
+
+::: {.fragment}
+![](figures/cumulative_unique_users.png){.absolute top="25%" right="0%" width="45%"}
+:::
 
 ## Open Software Summer School
-- Advertise OSSS 2026, call for applications soon (link to website)
+- Advertise OSSS 2026, call for applications Dec 1 (link to website)
