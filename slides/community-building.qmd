@@ -60,10 +60,6 @@
 - Everything is open from day one
 :::
 
-## External tools
-
-<iframe height="90%" width="100%" src="https://brainglobe.info/community/external-tools.html" title="BrainGlobe External Tools"></iframe>
-
 ## Community
 ::: {.fragment}
 ![](figures/cumulative_engagements.png){.absolute top="25%" left="0%" width="45%"}
@@ -72,6 +68,10 @@
 ::: {.fragment}
 ![](figures/cumulative_unique_users.png){.absolute top="25%" right="0%" width="45%"}
 :::
+
+## External tools
+
+<iframe height="90%" width="100%" src="https://brainglobe.info/community/external-tools.html" title="BrainGlobe External Tools"></iframe>
 
 ## Open Software Summer School
 - Advertise OSSS 2026, call for applications Dec 1 (link to website)
