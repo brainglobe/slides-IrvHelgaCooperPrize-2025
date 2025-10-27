@@ -11,7 +11,7 @@ format:
           useTextContentForMissingTitles: false 
           hideMissingTitles: true
         chalkboard: true
-        scrollable: true
+        scrollable: false
         preview-links: false
         view-distance: 10
         mobile-view-distance: 10

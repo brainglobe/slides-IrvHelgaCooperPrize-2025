@@ -10,7 +10,7 @@
 
 ##
 
-<iframe height="90%" width="100%" src="https://brainglobe.info/tutorials/index.html" title="BrainGlobe Tutorials"></iframe>
+<iframe src="https://brainglobe.info/tutorials/index.html" title="BrainGlobe Tutorials" style="max-height: 85%; max-width: 100%; width: 100%; height: 85%;"></iframe>
 
 ##
 [![](img/image_sc.png)](https://forum.image.sc/tag/brainglobe)
@@ -46,7 +46,7 @@
 
 ## Supporting contributors
 
-<iframe height="80%" width="100%" src="https://brainglobe.info/community/developers/index.html" title="BrainGlobe Developer Guide"></iframe>
+<iframe src="https://brainglobe.info/community/developers/index.html" title="BrainGlobe Developer Guide" style="max-height: 85%; max-width: 100%; width: 100%; height: 85%;"></iframe>
 
 ::: {.notes}
 - Everything is open from day one
@@ -63,7 +63,7 @@
 
 ## External tools
 
-<iframe height="90%" width="100%" src="https://brainglobe.info/community/external-tools.html" title="BrainGlobe External Tools"></iframe>
+<iframe src="https://brainglobe.info/community/external-tools.html" title="BrainGlobe External Tools" style="max-height: 85%; max-width: 100%; width: 100%; height: 85%;"></iframe>
 
 ## Open Software Summer School
 - Advertise OSSS 2026, call for applications Dec 1 (link to website)

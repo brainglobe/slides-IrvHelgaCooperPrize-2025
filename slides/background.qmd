@@ -54,7 +54,7 @@
 ![](img/histology_brain_slice.png){.absolute top="20%" left="5%" width="90%"}
 :::
 
-## Circuits in microscopy
+## 
 ::: {.fragment}
 ![](img/brain_regions_sagittal.png){.absolute top="35%" left="0%" width="35%"}
 :::
@@ -71,7 +71,7 @@
 ![](img/brain_regions_coronal_with_plane.png){.absolute top="35%" left="65%" width="35%"}
 :::
 
-## Circuits in microscopy
+##
 ::: {.fragment}
 ![](img/brain_regions_coronal_comp.png){.absolute top="40%" left="0%" width="35%"}
 :::
@@ -181,15 +181,19 @@ Adam Tyson
 [Claudi, F. et al. (2021) “Visualizing anatomically registered data with Brainrender” eLife, 10:e65751](https://doi.org/10.7554/eLife.65751)
 ::: -->
 
-##
+## What was needed? {style="font-size: 0.8em;"}
+::: {.columns}
+::: {.column .incremental}
+<br/>
+<br/>
 
-<div style="display:flex; justify-content:center; align-items:center;">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">neurotwitter, I&#39;m thinking of extending brainrender (<a href="https://t.co/ISYhPD7EhE">https://t.co/ISYhPD7EhE</a>) to atlases other than the Allen brain atlas. Does anyone know where I can download 3D atlases for the rat, drosophila and zebra fish brains?</p>&mdash; Federico Claudi (@Federico_claudi) <a href="https://twitter.com/Federico_claudi/status/1254726103945576449?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-</div>
-
-## What was needed?
-::: {.incremental}
 - Tools supporting multiple atlases and multiple species
 - Communities working together to deduplicate effort
 - User support and documentation
+:::
+::: {.column height="800px" style="transform: scale(0.7); transform-origin: top left;"}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">neurotwitter, I&#39;m thinking of extending brainrender (<a href="https://t.co/ISYhPD7EhE">https://t.co/ISYhPD7EhE</a>) to atlases other than the Allen brain atlas. Does anyone know where I can download 3D atlases for the rat, drosophila and zebra fish brains?</p>&mdash; Federico Claudi (@Federico_claudi) <a href="https://twitter.com/Federico_claudi/status/1254726103945576449?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+:::
 :::
