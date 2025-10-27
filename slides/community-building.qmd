@@ -1,11 +1,3 @@
-<!-- - Atlas building (reaching out to communities who don’t do this type of stuff)
-- Training, support etc etc
-- Mentored contributions
-- GSoC
-- Research software career paths
-- General OS call to action 
--->
-
 # Community building
 
 ## Supporting users
@@ -54,7 +46,7 @@
 
 ## Supporting contributors
 
-<iframe height="80%" width="100%" src="https://brainglobe.info/community/developers/index.html" title="BrainGlobe Tutorials"></iframe>
+<iframe height="80%" width="100%" src="https://brainglobe.info/community/developers/index.html" title="BrainGlobe Developer Guide"></iframe>
 
 ::: {.notes}
 - Everything is open from day one

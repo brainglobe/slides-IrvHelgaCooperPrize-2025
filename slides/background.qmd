@@ -131,7 +131,7 @@ NEED TO CITE THIS DATA SOURCE
 - Registration to an atlas is key to provide anatomical context
 :::
 
-## aMAP
+## Alignment
 ![](img/amap_cropped.png){fig-align="center" width=90%}
 
 ::: {.fragment .fade-out fragment-index=1 style="background: #ffffffff; width: 45%; height: 100%; margin: 0px; position: absolute; top: 0%; right: 0%"}
@@ -140,7 +140,7 @@ NEED TO CITE THIS DATA SOURCE
 ::: {.fragment .fade-out fragment-index=2 style="background: #ffffffff; width: 35%; height: 3%; margin: 0px; position: absolute; top: 27.5%; right: 0%"}
 :::
 
-::: {.fragment .fade-out fragment-index=2 style="background: #ffffffff; width: 36%; height: 3%; margin: 0px; position: absolute; top: 34.5%; right: 0%"}
+::: {.fragment .fade-out fragment-index=2 style="background: #ffffffff; width: 35%; height: 3%; margin: 0px; position: absolute; top: 34.5%; right: 0%"}
 :::
 
 ::: {.fragment .fade-out fragment-index=3 style="background: #ffffffff; width: 45%; height: 50%; margin: 0px; position: absolute; bottom: 0%; right: 0%"}
@@ -189,7 +189,7 @@ Adam Tyson
 
 ## What was needed?
 ::: {.incremental}
-- Tools supporting multiple atlases from multiple species
+- Tools supporting multiple atlases and multiple species
 - Communities working together to deduplicate effort
-- Community support and documentation
+- User support and documentation
 :::
