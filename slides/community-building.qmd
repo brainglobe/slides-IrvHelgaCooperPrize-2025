@@ -70,11 +70,11 @@ For more information visit: https://neuroinformatics.dev/open-software-summer-sc
 
 ## Community
 ::: {.fragment}
-![](figures/cumulative_engagements.png){.absolute top="25%" left="0%" width="45%"}
+![](img/cumulative_engagements.png){.absolute top="25%" left="0%" width="45%"}
 :::
 
 ::: {.fragment}
-![](figures/cumulative_unique_users.png){.absolute top="25%" right="0%" width="45%"}
+![](img/cumulative_unique_users.png){.absolute top="25%" right="0%" width="45%"}
 :::
 
 ## External tools
