@@ -147,34 +147,6 @@ Annotations for each section
 ## 
 ![](img/brain_regions_hippocampus.png){.absolute top="10%" left="15%" width="70%"}
 
-<!-- ## Whole brain microscopy
-:::: {.columns}
-::: {.column .fragment style="text-align: center; font-size: 0.65em;"}
-![](img/microscopy_stpt.png){height="450px"}
-
-Serial two-photon tomography (STPT)
-:::
-
-::: {.column .fragment style="text-align: center; font-size: 0.65em;"}
-![](img/microscopy_lsfm.png){height="450px"}
-
-Light sheet fluorescence microscopy (LSFM)
-:::
-:::: -->
-
-::: footer
-[Osten, P. , Margrie, T. W. (2013) “Mapping brain circuitry with a light microscope” Nature Methods 10, 515–523](https://doi.org/10.1038/nmeth.2477)
-:::
-
-::: {.notes}
-- Whole brain imaging was becoming more accessible, focus on LSFM vs SSTP
-- https://www.nature.com/articles/nmeth.1854
-- Moving from single sections to large 3D datasets
-- Whole brain microscopy (serial 2p, LSFM) etc becoming very popular
-- Need specific tools for large datasets, registration, cell detection etc
-  - Require efficient processing of large datasets, but also specific analysis requirements (cell detection etc) and “anatomical context” i.e. registration
-- Imaging should feel accessible
-:::
 
 ## Serial two-photon tomography {background-color="black"}
 
@@ -212,7 +184,7 @@ Light sheet fluorescence microscopy (LSFM)
 
 ![](img/microscopy_lsfm.png){.fragment .absolute top="48%" left="0%" width="28%" style="margin-bottom: 0px; margin-top: 0px;"}
 
-![](img/good_EZ_example.mp4){.fragment .absolute top="24%" right="0%" width="68%" loop="true" controls="true" autoplay="true" muted="true"}
+![](img/EZ_clear_small.m4v){.fragment .absolute top="24%" right="0%" width="68%" loop="true" controls="true" autoplay="true" muted="true"}
 
 ::: footer
 [Osten, P. , Margrie, T. W. (2013) “Mapping brain circuitry with a light microscope” Nature Methods 10, 515–523](https://doi.org/10.1038/nmeth.2477)
