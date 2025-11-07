@@ -184,7 +184,7 @@ Annotations for each section
 
 ![](img/microscopy_lsfm.png){.fragment .absolute top="48%" left="0%" width="28%" style="margin-bottom: 0px; margin-top: 0px;"}
 
-![](img/EZ_clear_small.m4v){.fragment .absolute top="24%" right="0%" width="68%" loop="true" controls="true" autoplay="true" muted="true"}
+![](img/EZ_clear_small.mp4){.fragment .absolute top="24%" right="0%" width="68%" loop="true" controls="true" autoplay="true" muted="true"}
 
 ::: footer
 [Osten, P. , Margrie, T. W. (2013) “Mapping brain circuitry with a light microscope” Nature Methods 10, 515–523](https://doi.org/10.1038/nmeth.2477)
