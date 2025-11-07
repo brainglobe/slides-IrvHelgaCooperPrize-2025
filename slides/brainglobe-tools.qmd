@@ -198,7 +198,7 @@ Christian Niedwork<br/> Charly Rousseau<br/> Adam Tyson
 :::
 
 ## 
-![](img/neuropixels.png){.absolute right="20%" top="15%" width="60%"}
+![](img/neuropixels_modified.png){.absolute right="5%" top="25%" width="90%"}
 
 ## Spatial analysis
 
@@ -216,16 +216,20 @@ Mateo Vélez-Fort<br/> Charly Rousseau<br/> Adam Tyson
 [Tyson, A. L., et al. (2022) “Accurate determination of marker location within whole-brain microscopy images” Scientific Reports, 12, 867](https://doi.org/10.1038/s41598-021-04676-9)
 :::
 
-##
-![](img/Han_2018_ext_1.jpg){.absolute left="10%" top="8%" width="80%"}
-
 ## {background-color="black"}
-::: {.fragment}
-![](img/cFos_imaging_2.mp4){.absolute right="5%" top="16%" width="90%" loop="true" controls="true" muted="true"}
+![](img/Han_2018_ext_1.jpeg){.absolute left="20%" top="27%" width="25%"}
+![](img/Han_2018_ext_1_bottom.jpeg){.absolute right="20%" top="27%" width="25%"}
+
+::: {style="background: #000000ff; width: 7%; height: 3%; margin: 0px; position: absolute; top: 72%; left: 31%"}
+:::
+::: {style="background: #000000ff; width: 7%; height: 3%; margin: 0px; position: absolute; top: 72%; left: 65.5%"}
 :::
 
-::: {.notes}
-- Video from Gubra
+## {background-color="black"}
+![](img/cFos_imaging_2.mp4){.absolute right="5%" top="16%" width="90%" loop="true" controls="true" muted="true"}
+
+::: {.footer}
+["Understanding c-Fos and its applications in CNS research" in Gubra, Jul 31, 2024, https://www.gubra.dk/blog/understanding-c-fos-and-its-applications-in-cns-research/](https://www.gubra.dk/blog/understanding-c-fos-and-its-applications-in-cns-research/).
 :::
 
 ## 3D cell detection
