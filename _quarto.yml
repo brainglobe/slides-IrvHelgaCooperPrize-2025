@@ -16,7 +16,7 @@ format:
         view-distance: 10
         mobile-view-distance: 10
         auto-animate: true
-        auto-play-media: true
+        auto-play-media: false
         code-overflow: wrap
         highlight-style: atom-one
         mermaid: 

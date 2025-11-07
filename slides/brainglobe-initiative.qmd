@@ -25,72 +25,22 @@ Established 2020 with three aims:
 :::
 
 ## BrainGlobe Initiative
-![](img/Scientific-Python-Ecosystem.png){.absolute top="20%" left="10%" width="80%"}
+::: {.columns style="text-align: center; font-size: 0.75em;"}
+::: {.column .fragment width="50%"}
+<br/>
+
+![](img/noun-5912985-EE9040.svg){width="60%"}
+
+Open source and community driven
+:::
+::: {.column .fragment width="50%"}
+<br/>
+
+![](img/noun-modular-8087926-EE9040.svg){width="60%"}
+
+Modular tools that work together
+:::
+:::
 
 ## BrainGlobe Initiative
-::: {.columns style="text-align: center; font-size: 0.55em;"}
-::: {.column .fragment width="33%"}
-<br/>
-
-![](img/noun-5912985-EE9040.svg){width="80%"}
-
-Open source and community driven
-:::
-::: {.column .fragment width="33%"}
-<br/>
-
-![](img/noun-modular-6413094-EE9040.svg){width="80%"}
-
-Modular tools that work together
-:::
-::: {.column .fragment width="33%"}
-<br/>
-
-![](img/noun-manual-7932399-EE9040.svg){width="80%"}
-
-Tutorials and documentation
-:::
-:::
-
-<!-- ## BrainGlobe Initiative
-::: {.columns}
-
-:::: {.column width="33%" style="text-align: center; font-size: 0.6em;"}
-![](img/noun-5912985-EE9040.svg){fig-align="center"}
-
-::::: {.absolute top="75%" left="0%" width="33%" style="margin-top: 0px; margin-bottom: 0px; vertical-align: baseline;"}
-Open source and community driven
-:::::
-::::
-
-:::: {.column width="33%" style="text-align: center; font-size: 0.6em;"}
-![](img/noun-manual-7932399-EE9040.svg){fig-align="center"}
-
-::::: {.absolute top="85%" left="0%" width="100%" style="margin-top: 0px; margin-bottom: 0px; vertical-align: baseline;"}
-Tutorials and documentation
-:::::
-
-::::
-
-:::: {.column width="33%" style="text-align: center; font-size: 0.6em;"}
-![](img/noun-modular-6413094-EE9040.svg){fig-align="center"}
-
-::::: {.absolute top="85%" left="0%" width="100%" style="margin-top: 0px; margin-bottom: 0px; vertical-align: baseline;"}
-Modular tools that work together
-:::::
-
-::::
-
-::: -->
-
-<!-- ::: {.fragment .absolute top="50%" left="0%" width="50%" height="35%" style="text-align: center; font-size: 0.6em;"}
-
-::: -->
-
-<!-- ::: {.fragment .absolute top="50%" right="0%" width="50%" height="35%" style="text-align: center; font-size: 0.6em;"}
-![](img/noun-modular-6413094-EE9040.svg){width="45%"}
-
-:::: {.absolute top="85%" left="0%" width="100%" style="margin-top: 0px; margin-bottom: 0px; vertical-align: baseline;"}
-Modular tools that work together
-::::
-::: -->
+![](img/Scientific-Python-Ecosystem.png){.absolute top="20%" left="10%" width="80%"}

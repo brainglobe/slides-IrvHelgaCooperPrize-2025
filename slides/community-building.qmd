@@ -4,28 +4,29 @@
 ::: {.incremental}
 - Reduce barriers of entry
 - Provide comprehensive documentation and tutorials
-- Support users via multiple channels (forum, chat, GitHub issues)
-- Workshops and training events
+- Support users via multiple channels
+- Host workshops and training events
 :::
 
 ##
 
-<iframe src="https://brainglobe.info/tutorials/index.html" title="BrainGlobe Tutorials" style="max-height: 85%; max-width: 100%; width: 100%; height: 85%;"></iframe>
+<iframe src="https://brainglobe.info/tutorials/index.html" title="BrainGlobe Tutorials" style="max-height: 110%; max-width: 125%; width: 125%; height: 110%; transform: scale(0.8); transform-origin: top left;"></iframe>
 
 ##
-[![](img/image_sc.png)](https://forum.image.sc/tag/brainglobe)
+![](img/image_sc.png){.absolute top="5%" width="85%" left="7.5%"}
+
+::: {.footer}
+[https://forum.image.sc/tag/brainglobe](https://forum.image.sc/tag/brainglobe)
+:::
 
 ## Workshops and training
-::: {.fragment}
-![](img/OSSS_working.jpg){.absolute top="25%" left="0%" height="65%"}
-:::
+![](img/OSSS_tutoring.jpg){.absolute top="15%" width="40%" left="5%"}
+![](img/OSSS_working.jpg){.absolute top="15%" width="40%" right="5%"}
 
-::: {.fragment}
-![](img/OSSS_tutoring.jpg){.absolute top="27.5%" left="20%" height="65%"}
-:::
-
-::: {.fragment}
-![](img/OSSS_OME.jpg){.absolute top="30%" left="40%" height="65%"}
+::: {.fragment .absolute  icon="false" top="70%" left="10%" width="80%" style="font-size: 0.7em;"}
+"My whole PhD feels doable now!" <br/>
+"Sparked a bit of a eureka moment after months of agonising over how to analyse my data!"<br/>
+"The heterogeneity of the attendees was truly enriching."
 :::
 
 ::: {.notes}
@@ -34,22 +35,37 @@
 :::
 
 ##
-![](img/log_normalised_all_by_country.png){.absolute top="20%" width="100%"}
+![](img/log_normalised_all_by_country.png){.absolute top="20%" width="100%" style="max-width: 100%;"}
+
+::: {style="background: #ffffff; width: 6%; height: 33%; margin: 0px; position: absolute; top: 41%; left: 5%"}
+:::
 
 ::: {.notes}
 - Download stats from PyPI for all BrainGlobe tools
 - Normalize by pop size and log scale
 :::
 
-## Supporting contributors
-[![](img/zulip.png){fig-align="center"}](https://brainglobe.zulipchat.com/)
+## Open Software Summer School 2026
+::: {.absolute left="5%" top="22.5%" style="font-size: 0.5em;"}
+For more information visit: https://neuroinformatics.dev/open-software-summer-school/
+:::
+
+![](img/OSSS_2026_schedule.png){.absolute top="40%" left="0%" width="100%" style="max-width: 100%;"}
+![](img/OSSS_QR_code.png){.absolute top="15%" right="5%" width="12%"}
 
 ## Supporting contributors
 
-<iframe src="https://brainglobe.info/community/developers/index.html" title="BrainGlobe Developer Guide" style="max-height: 85%; max-width: 100%; width: 100%; height: 85%;"></iframe>
+<iframe src="https://brainglobe.info/community/developers/index.html" title="BrainGlobe Developer Guide" style="max-height: 110%; max-width: 125%; width: 125%; height: 110%; transform: scale(0.8); transform-origin: top left;"></iframe>
 
 ::: {.notes}
 - Everything is open from day one
+:::
+
+## Supporting contributors
+![](img/zulip.png){.absolute width="80%" top="20%" left="10%"}
+
+::: {.footer}
+[https://brainglobe.zulipchat.com/](https://brainglobe.zulipchat.com/)
 :::
 
 ## Community
@@ -62,8 +78,26 @@
 :::
 
 ## External tools
+::: {.fragment}
+![](img/brainglobe_external_vvasp.png){.absolute top="15%" left="5%" width="60%"}
+![](img/brainglobe_external_brainatlas.png){.absolute top="18%" left="6%" width="60%"}
+![](img/brainglobe_external_brainlocationvisualizer.png){.absolute top="21%" left="7%" width="60%"}
+![](img/brainglobe_external_brainloopsearch.png){.absolute top="24%" left="8%" width="60%"}
+![](img/brainglobe_external_brainreg3d.png){.absolute top="27%" left="9%" width="60%"}
+![](img/brainglobe_external_braintracer.png){.absolute top="30%" left="10%" width="60%"}
+![](img/brainglobe_external_brainways.png){.absolute top="33%" left="11%" width="60%"}
+![](img/brainglobe_external_clearfinder.png){.absolute top="36%" left="12%" width="60%"}
+![](img/brainglobe_external_blenderbrain.png){.absolute top="39%" left="13%" width="60%"}
+:::
 
-<iframe src="https://brainglobe.info/community/external-tools.html" title="BrainGlobe External Tools" style="max-height: 85%; max-width: 100%; width: 100%; height: 85%;"></iframe>
-
-## Open Software Summer School
-- Advertise OSSS 2026, call for applications Dec 1 (link to website)
+::: {.fragment}
+![](img/brainglobe_external_cuisto.png){.absolute top="18%" left="26%" width="60%"}
+![](img/brainglobe_external_dmcbrainmap.png){.absolute top="21%" left="27%" width="60%"}
+![](img/brainglobe_external_magellan.png){.absolute top="24%" left="28%" width="60%"}
+![](img/brainglobe_external_neuralib.png){.absolute top="27%" left="29%" width="60%"}
+![](img/brainglobe_external_neurocarto.png){.absolute top="30%" left="30%" width="60%"}
+![](img/brainglobe_external_paprica.png){.absolute top="33%" left="31%" width="60%"}
+![](img/brainglobe_external_pynutil.png){.absolute top="36%" left="32%" width="60%"}
+![](img/brainglobe_external_copernifus.png){.absolute top="39%" left="33%" width="60%"}
+![](img/brainglobe_external_abba.png){.absolute top="42%" left="34%" width="60%"}
+:::
