@@ -22,12 +22,15 @@ custom-font-sizes:
 
 {{< include slides/community-building.qmd >}}
 
-## Lessons learned
+## Summary
 ::: {.incremental}
-- Make tools modular and interoperable
-- Provide documentation and tutorials
-- Be available to support users and contributors
-- Ensure tools are maintained and updated to build trust
+- The BrainGlobe Initiative provides open source tools for computational neuroanatomy
+    - BrainGlobe atlases facilitate interoperability
+    - Modular tools facilitate reuse
+- Community building is key to expanding access
+    - Ensure tools are maintained and updated to build trust
+    - Provide extensive documentation and tutorials
+    - Be available to support users and contributors
 :::
 
 # Acknowledgements {visibility="hidden"}
