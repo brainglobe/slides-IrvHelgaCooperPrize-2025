@@ -311,7 +311,7 @@ itables.show(data, searching= False)
 
 ### [`brainrender`](https://github.com/brainglobe/brainrender)
 
-![](img/brainrender_still.png){.absolute top="20%" width="70%" left="12.5%"}
+![](img/cellfinder_small.mp4){.absolute top="23%" width="70%" left="15%" loop="true"}
 
 ![](img/noun-data-presentation-4495930-EE9040.svg){.absolute top="4%" width="10%" right="0%"}
 
