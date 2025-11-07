@@ -37,9 +37,6 @@
 ##
 ![](img/log_normalised_all_by_country.png){.absolute top="20%" width="100%" style="max-width: 100%;"}
 
-::: {style="background: #ffffff; width: 6%; height: 33%; margin: 0px; position: absolute; top: 41%; left: 5%"}
-:::
-
 ::: {.notes}
 - Download stats from PyPI for all BrainGlobe tools
 - Normalize by pop size and log scale
