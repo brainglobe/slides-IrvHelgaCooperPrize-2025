@@ -26,7 +26,7 @@ custom-font-sizes:
 ::: {.incremental}
 - The BrainGlobe Initiative provides open source tools for computational neuroanatomy
     - BrainGlobe atlases facilitate interoperability
-    - Modular tools facilitate reuse
+    - Modular tools promote reuse
 - Community building is key to expanding access
     - Ensure tools are maintained and updated to build trust
     - Provide extensive documentation and tutorials
@@ -199,7 +199,8 @@ Mateo Vélez-Fort<br/>Alessandro Felder<br/>Nikoloz Sirmpilatze<br/>Simon Weiler
 [Giulia Paci](https://github.com/giuliapaci) <br/>
 [Marco Dalla Vecchia](https://github.com/marcodallavecchia) <br/>
 [Pavel Vychyk](https://github.com/p-vychik) <br/>
-[Ishrat Zaman](https://github.com/ishratz25)
+[Ishrat Zaman](https://github.com/ishratz25) <br/>
+[Asma Bashir](https://github.com/DrABashir)
 ::::
 :::
 

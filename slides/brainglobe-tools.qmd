@@ -44,6 +44,17 @@ Luigi Petrucco <br/> Federico Claudi <br/> Adam Tyson
 -   Central point to BrainGlobe
 :::
 
+## BrainGlobe atlases
+
+::: {.fragment .absolute top="15%" left="0%" width="50%" height="85%" style="font-size: 0.7em; text-align: center;"}
+![](img/2d_atlas_fig25_nissl.png)
+Template image for each section
+:::
+
+::: {.fragment .absolute top="15%" right="0%" height="85%" width="50%" style="font-size: 0.7em; text-align: center;"}
+![](img/2d_atlas_fig25.png)
+Annotations for each section
+:::
 
 ## BrainGlobe atlases
 
@@ -72,7 +83,7 @@ Luigi Petrucco <br/> Federico Claudi <br/> Adam Tyson
 :::
 
 ::: {.notes}
-Kim mouse atlas - incorporates Paxton atlas, with extra delineations in the striatum based on functional data.
+Kim mouse atlas - incorporates Paxinos atlas, with extra delineations in the striatum based on functional data.
 :::
 
 ## BrainGlobe atlases
@@ -188,6 +199,20 @@ Prairie Vole (Microtus ochrogaster)
 ![](img/brainreg.png){.absolute top="20%" width="90%" left="5%"}
 
 ![](img/noun-map-195855-EE9040.svg){.absolute top="4%" width="10%" right="0%"}
+
+::: {style="background: #ffffff; width: 15%; height: 65%; margin: 0px; position: absolute; top: 23%; right: 6%"}
+:::
+
+::: {.absolute top="32%" left="79%" style="font-size: 0.7em;"}
+Allen Mouse<br/>
+Brain Atlas
+:::
+
+::: {.absolute top="65%" left="79%" style="font-size: 0.7em;"}
+Enhanced and<br/>
+Unified Mouse<br/>
+Brain Atlas
+:::
 
 ::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Christian Niedwork<br/> Charly Rousseau<br/> Adam Tyson
@@ -477,6 +502,9 @@ Simon Weiler<br/> Dinora Abdulazhanova<br/> Niko Sirmpilatze<br/> Alessandro Fel
 ### [`brainglobe-template-builder`](https://github.com/brainglobe/brainglobe-template-builder)
 
 ![](img/blackcap_figure3_closeupSNR.png){.absolute top="22%" width="80%" left="10%"}
+
+::: {.fragment .fade-out style="background: #ffffff; width: 100%; height: 28%; margin: 0px; position: absolute; top: 55%; left: 0%"}
+:::
 
 ::: {.absolute right="0%" bottom="0%" style="text-align: right; font-size: 0.4em;"}
 Simon Weiler<br/> Dinora Abdulazhanova<br/> Niko Sirmpilatze<br/> Alessandro Felder<br/> Adam Tyson

@@ -23,10 +23,9 @@
 ![](img/OSSS_tutoring.jpg){.absolute top="15%" width="40%" left="5%"}
 ![](img/OSSS_working.jpg){.absolute top="15%" width="40%" right="5%"}
 
-::: {.fragment .absolute  icon="false" top="70%" left="10%" width="80%" style="font-size: 0.7em;"}
-"My whole PhD feels doable now!" <br/>
-"Sparked a bit of a eureka moment after months of agonising over how to analyse my data!"<br/>
-"The heterogeneity of the attendees was truly enriching."
+::: {.fragment .absolute top="70%" left="10%" width="80%" style="font-size: 0.7em; text-align: center;"}
+"My whole PhD feels doable now!"<br/> <br/>
+"Sparked a bit of a eureka moment after months of agonising over how to analyse my data!"
 :::
 
 ::: {.notes}
