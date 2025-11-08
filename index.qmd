@@ -204,8 +204,6 @@ Mateo Vélez-Fort<br/>Alessandro Felder<br/>Nikoloz Sirmpilatze<br/>Simon Weiler
 ::::
 :::
 
-<!-- ## {background-video="img/cellfinder_small.mp4" background-video-loop="true"}
-
-::: footer
-[Claudi, F. et al. (2021) “Visualizing anatomically registered data with Brainrender” eLife, 10:e65751](https://doi.org/10.7554/eLife.65751)
-::: -->
+::: {.footer}
+[https://brainglobe.info/people.html](https://brainglobe.info/people.html)
+:::
