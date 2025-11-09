@@ -48,12 +48,12 @@ Luigi Petrucco <br/> Federico Claudi <br/> Adam Tyson
 
 ::: {.fragment .absolute top="15%" left="0%" width="50%" height="85%" style="font-size: 0.7em; text-align: center;"}
 ![](img/2d_atlas_fig25_nissl.png)
-Template image for each section
+Template image
 :::
 
 ::: {.fragment .absolute top="15%" right="0%" height="85%" width="50%" style="font-size: 0.7em; text-align: center;"}
 ![](img/2d_atlas_fig25.png)
-Annotations for each section
+Annotations
 :::
 
 ::: footer
@@ -69,6 +69,11 @@ Annotations for each section
 ![](img/atlas_slices/allen_mouse_10um.png){width="80%"} 
 
 Allen Mouse Brain CCF
+
+::: {style="font-size: 0.5em;"}
+Based on serial two-photon tomography
+:::
+
 :::
 
 ::: {.column .fragment width="50%" style="text-align: center; font-size: 0.7em;"}
@@ -77,6 +82,11 @@ Allen Mouse Brain CCF
 ![](img/atlas_slices/kim_mouse_10um.png){width="80%"} 
 
 Enhanced and Unified Mouse Brain Atlas
+
+::: {style="font-size: 0.5em;"}
+Based on serial two-photon tomography
+:::
+
 :::
 :::::
 
@@ -267,14 +277,14 @@ Mateo Vélez-Fort<br/> Charly Rousseau<br/> Adam Tyson
 :::
 
 ::: {.footer}
-CITE 2018 TOM MF paper
+[Han, Y. et al. (2018) "The logic of single-cell projections from visual cortex" Nature 556, 51–56](https://doi.org/10.1038/nature26159)
 :::
 
 ## {background-color="black"}
 ![](img/cFos_imaging_2.mp4){.absolute right="5%" top="16%" width="90%" loop="true" controls="true" muted="true"}
 
 ::: {.footer}
-["Understanding c-Fos and its applications in CNS research" in Gubra, Jul 31, 2024, https://www.gubra.dk/blog/understanding-c-fos-and-its-applications-in-cns-research/](https://www.gubra.dk/blog/understanding-c-fos-and-its-applications-in-cns-research/).
+["Understanding c-Fos and its applications in CNS research" in Gubra, Jul 31, 2024](https://www.gubra.dk/blog/understanding-c-fos-and-its-applications-in-cns-research/).
 :::
 
 ## 3D cell detection

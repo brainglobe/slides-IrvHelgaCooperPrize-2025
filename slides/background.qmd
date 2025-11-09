@@ -1,7 +1,7 @@
 # Background
 
 ##
-::: {.fragment .absolute left="0%" top="50%" width="100%" style="text-align: left; font-style: italic;"}
+::: {.absolute left="0%" top="50%" width="100%" style="text-align: left; font-style: italic;"}
 Our goal at the BrainGlobe Initiative is to accelerate progress in neuroscience by providing a set of interoperable tools -- and building a community -- for computational neuroanatomy.
 :::
 
@@ -47,12 +47,12 @@ Our goal at the BrainGlobe Initiative is to accelerate progress in neuroscience 
 
 ::: {.fragment .absolute top="15%" left="0%" width="50%" height="85%" style="font-size: 0.7em; text-align: center;"}
 ![](img/2d_atlas_fig25_nissl.png)
-Template image for each section
+Template image
 :::
 
 ::: {.fragment .absolute top="15%" right="0%" height="85%" width="50%" style="font-size: 0.7em; text-align: center;"}
 ![](img/2d_atlas_fig25.png)
-Annotations for each section
+Annotations image
 :::
 
 ## Histology
