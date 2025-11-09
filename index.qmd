@@ -5,11 +5,10 @@ custom-font-sizes:
     attribution-font-size: 0.3em
 ---
 
-## Contents
+## The BrainGlobe Initiative
 ::: {.incremental}
 - Background
-- The BrainGlobe Initiative
-- BrainGlobe tools
+- Tools
 - Expanding access
 - Community building
 :::
