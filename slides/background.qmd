@@ -1,12 +1,3 @@
-<!-- - Imaging key to neuroscience. Excellent open source tools to process microscopy data:
-  - MRI (SPM, FSL, AFNI etc)
-  - Microscopy (FIJI etc)
-- Microscopy data in animal models, moving from small single sections to large multimodal, multidimensional datasets
-  - Requires efficient processing of large datasets, but also specific analysis requirements (cell detection etc) and “anatomical context” i.e. registration
-  - Whole brain microscopy (serial 2p, LSFM) etc becoming very popular, alongside transcriptomics etc
--Need specific tools 
--->
-
 # Background
 
 ##
@@ -16,9 +7,7 @@ Our goal at the BrainGlobe Initiative is to accelerate progress in neuroscience 
 
 ## Understanding the brain
 
-::: {.fragment}
 ![](img/cajal_0_regions.jpg){.absolute top="20%" left="5%" width="90%"}
-:::
 
 ::: {.fragment}
 ![](img/cajal_1_region.jpg){.absolute top="20%" left="5%" width="90%"}
@@ -29,8 +18,9 @@ Our goal at the BrainGlobe Initiative is to accelerate progress in neuroscience 
 :::
 
 ## Understanding the brain
-::: {.fragment}
 ![](img/1307_Brodmann_Areas.jpg){.absolute left="5%" top="15%" width="90%"}
+
+::: {style="background: #ffffff; width: 75%; height: 7%; margin: 0px; position: absolute; top: 90%; left: 12%"}
 :::
 
 ## Understanding the brain
@@ -38,8 +28,8 @@ Our goal at the BrainGlobe Initiative is to accelerate progress in neuroscience 
 ![](img/pennfield_surgery.jpg){.absolute top="27%" left="0%" width="45%"}
 :::
 
-::: {.fragment}
-![](img/Cortical-homunculus-by-Wilder-Graves-Penfield-174-It-represents-the-mapping-the.jpg){.absolute top="30%" right="0%" width="50%"}
+::: {.fragment .absolute top="30%" right="0%" width="50%"}
+![](img/Cortical-homunculus-by-Wilder-Graves-Penfield-174-It-represents-the-mapping-the.jpg)
 :::
 
 ## Brain atlases

@@ -237,7 +237,9 @@ Christian Niedwork<br/> Charly Rousseau<br/> Adam Tyson
 ## 
 ![](img/neuropixels_modified.png){.absolute right="5%" top="25%" width="90%"}
 
+::: footer
 [Tyson, A. L. et al. (2022) “Accurate determination of marker location within whole-brain microscopy images” Sci Rep, 12, 867](https://doi.org/10.1038/s41598-021-04676-9)
+:::
 
 ## Spatial analysis
 
