@@ -7,56 +7,56 @@ Our goal at the BrainGlobe Initiative is to accelerate progress in neuroscience 
 
 ## Understanding the brain
 
-![](img/cajal_0_regions.jpg){.absolute top="20%" left="5%" width="90%"}
+![](img/cajal_0_regions.jpg){.absolute .nostretch top="20%" left="5%" width="90%"}
 
 ::: {.fragment}
-![](img/cajal_1_region.jpg){.absolute top="20%" left="5%" width="90%"}
+![](img/cajal_1_region.jpg){.absolute .nostretch top="20%" left="5%" width="90%"}
 :::
 
 ::: {.fragment}
-![](img/cajal_2_regions.jpg){.absolute top="20%" left="5%" width="90%"}
+![](img/cajal_2_regions.jpg){.absolute .nostretch top="20%" left="5%" width="90%"}
 :::
 
 ## Understanding the brain
-![](img/1307_Brodmann_Areas.jpg){.absolute left="5%" top="15%" width="90%"}
+![](img/1307_Brodmann_Areas.jpg){.absolute .nostretch left="5%" top="15%" width="90%"}
 
 ::: {style="background: #ffffff; width: 75%; height: 7%; margin: 0px; position: absolute; top: 90%; left: 12%"}
 :::
 
 ## Understanding the brain
 ::: {.fragment}
-![](img/pennfield_surgery.jpg){.absolute top="27%" left="0%" width="45%"}
+![](img/pennfield_surgery.jpg){.absolute .nostretch top="27%" left="0%" width="45%"}
 :::
 
 ::: {.fragment .absolute top="30%" right="0%" width="50%"}
-![](img/Cortical-homunculus-by-Wilder-Graves-Penfield-174-It-represents-the-mapping-the.jpg)
+![](img/Cortical-homunculus-by-Wilder-Graves-Penfield-174-It-represents-the-mapping-the.jpg){.nostretch}
 :::
 
 ## Brain atlases
 
 ::: {.fragment}
-![](img/100149965_1492.jpg){.absolute top="15%" left="0%" height="75%"} 
+![](img/100149965_1492.jpg){.absolute .nostretch top="15%" left="0%" height="75%"} 
 :::
 
 ::: {.fragment}
-![](img/2d_atlas_cover.png){.absolute top="25%" right="0%" width="50%"}
+![](img/2d_atlas_cover.png){.absolute .nostretch top="25%" right="0%" width="50%"}
 :::
 
 
 ## Brain atlases
 
 ::: {.fragment .absolute top="15%" left="0%" width="50%" height="85%" style="font-size: 0.7em; text-align: center;"}
-![](img/2d_atlas_fig25_nissl.png)
+![](img/2d_atlas_fig25_nissl.png){.nostretch}
 Template
 :::
 
 ::: {.fragment .absolute top="15%" right="0%" height="85%" width="50%" style="font-size: 0.7em; text-align: center;"}
-![](img/2d_atlas_fig25.png)
+![](img/2d_atlas_fig25.png){.nostretch}
 Annotation
 :::
 
 ## Histology
-![](img/histology_process.jpg){.absolute top="15%" left="5%" width="90%" style="max-width: 100%;"}
+![](img/histology_process.jpg){.absolute .nostretch top="15%" left="5%" width="90%" style="max-width: 100%;"}
 
 ::: {.fragment .fade-in}
 ::: {style="border-left: 2px dashed #bc0000; height: 22%; position: absolute; left: 25%; top: 16%; background: transparent;"}
@@ -83,27 +83,27 @@ Annotation
 ## Histology
 
 ::: {.fragment}
-![](img/histology_slice_only.png){.absolute top="15%" left="0%" width="40%"}
+![](img/histology_slice_only.png){.absolute .nostretch top="15%" left="0%" width="40%"}
 :::
 
 ::: {.fragment}
-![](img/histology_result.png){.absolute top="15%" left="0%" width="40%"}
+![](img/histology_result.png){.absolute .nostretch top="15%" left="0%" width="40%"}
 :::
 
 ::: {.fragment}
-![](img/2d_atlas_fig15.png){.absolute top="25%" right="0%" width="55%"}
+![](img/2d_atlas_fig15.png){.absolute .nostretch top="25%" right="0%" width="55%"}
 :::
 
 ::: {.fragment}
-![](img/2d_atlas_fig29.png){.absolute top="25%" right="0%" width="55%"}
+![](img/2d_atlas_fig29.png){.absolute .nostretch top="25%" right="0%" width="55%"}
 :::
 
 ::: {.fragment}
-![](img/2d_atlas_fig44.png){.absolute top="25%" right="0%" width="55%"}
+![](img/2d_atlas_fig44.png){.absolute .nostretch top="25%" right="0%" width="55%"}
 :::
 
 ::: {.fragment}
-![](img/2d_atlas_fig57.png){.absolute top="25%" right="0%" width="55%"}
+![](img/2d_atlas_fig57.png){.absolute .nostretch top="25%" right="0%" width="55%"}
 :::
 
 :::: {.fragment style="background: transparent; border: 3px dashed #C00000; padding: 16px; border-radius: 4px; margin: 0px; position: absolute; width: 5%; height: 3%; top: 38%; right: 36%"}
@@ -111,8 +111,8 @@ Annotation
 
 ##
 ::: {.fragment .absolute top="15%" left="0%" width="30%"}
-![](img/brain_regions_hip_position_coronal.png)
-![](img/2d_hippocampus_coronal.png)
+![](img/brain_regions_hip_position_coronal.png){.nostretch}
+![](img/2d_hippocampus_coronal.png){.nostretch}
 
 :::: {style="background: transparent; border: 4px dashed #bc0000; padding: 16px; border-radius: 4px; margin: 0px; position: absolute; width: 39%; height: 6%; top: 60%; left: 21%"}
 ::::
@@ -120,8 +120,8 @@ Annotation
 :::
 
 ::: {.fragment .absolute top="15%" left="35%" width="30%"}
-![](img/brain_regions_hip_position_sagittal.png)
-![](img/2d_hippocampus_sagittal.png)
+![](img/brain_regions_hip_position_sagittal.png){.nostretch}
+![](img/2d_hippocampus_sagittal.png){.nostretch}
 
 :::: {style="background: transparent; border: 4px dashed #bc0000; padding: 16px; border-radius: 4px; margin: 0px; position: absolute; width: 10%; height: 15%; top: 63%; left: 32%"}
 ::::
@@ -129,8 +129,8 @@ Annotation
 :::
 
 ::: {.fragment .absolute top="15%" left="70%" width="30%"}
-![](img/brain_regions_hip_position_horizontal.png)
-![](img/2d_hippocampus_horizontal.png)
+![](img/brain_regions_hip_position_horizontal.png){.nostretch}
+![](img/2d_hippocampus_horizontal.png){.nostretch}
 
 :::: {style="background: transparent; border: 4px dashed #bc0000; padding: 16px; border-radius: 4px; margin: 0px; position: absolute; width: 6%; height: 24%; top: 58%; left: 28%"}
 ::::
@@ -138,14 +138,14 @@ Annotation
 :::
 
 ## 
-![](img/brain_regions_hippocampus.png){.absolute top="10%" left="15%" width="70%"}
+![](img/brain_regions_hippocampus.png){.absolute .nostretch top="10%" left="15%" width="70%"}
 
 
 ## Serial two-photon tomography {background-color="black"}
 
-![](img/TV-demo-reencoded.mp4){.fragment .absolute top="15%" left="35%" width=65% loop="true" controls="true" muted="true"}
+![](img/TV-demo-reencoded.mp4){.fragment .absolute .nostretch top="15%" left="35%" width=65% loop="true" controls="true" muted="true"}
 
-![](img/microscopy_stpt.png){.absolute top="24%" left="0%" width="30%"}
+![](img/microscopy_stpt.png){.absolute .nostretch top="24%" left="0%" width="30%"}
 
 ::: footer
 [Osten, P. , Margrie, T. W. (2013) “Mapping brain circuitry with a light microscope” Nature Methods 10, 515–523](https://doi.org/10.1038/nmeth.2477)
@@ -162,22 +162,22 @@ Annotation
 :::
 
 ## Serial two-photon tomography {background-color="black"}
-![](img/whole.png){fig-align="center" width=70%}
+![](img/whole.png){.nostretch fig-align="center" width=62%}
 
 ## Serial two-photon tomography {background-color="black"}
-![](img/crop.png){fig-align="center" width=70%}
+![](img/crop.png){.nostretch fig-align="center" width=62%}
 
 ## Light sheet fluorescence microscopy {background-color="black"}
-![](img/clearing_example.png){.absolute top="23%" left="1.5%" width="25%"}
+![](img/clearing_example.png){.absolute .nostretch top="23%" left="1.5%" width="25%"}
 
 ::: {.fragment .fade-out fragment-index=1 style="background: #000000ff; width: 13%; height: 24%; margin: 0px; position: absolute; top: 23%; left: 14%"}
 :::
 ::: {.fragment .fade-out fragment-index=1 style="background: #000000ff; width: 13%; height: 5%; margin: 0px; position: absolute; top: 23%; left: 1.5%"}
 :::
 
-![](img/microscopy_lsfm.png){.fragment .absolute top="48%" left="0%" width="28%" style="margin-bottom: 0px; margin-top: 0px;"}
+![](img/microscopy_lsfm.png){.fragment .absolute .nostretch top="48%" left="0%" width="28%" style="margin-bottom: 0px; margin-top: 0px;"}
 
-![](img/EZ_clear_small.mp4){.fragment .absolute top="24%" right="0%" width="68%" loop="true" controls="true" autoplay="true" muted="true"}
+![](img/EZ_clear_small.mp4){.fragment .absolute .nostretch top="24%" right="0%" width="68%" loop="true" controls="true" autoplay="true" muted="true"}
 
 ::: footer
 [Osten, P. , Margrie, T. W. (2013) “Mapping brain circuitry with a light microscope” Nature Methods 10, 515–523](https://doi.org/10.1038/nmeth.2477)
@@ -189,13 +189,13 @@ Annotation
 :::
 
 ## {background-color="black"}
-![](img/outline_black_bigger.png){.absolute top="20%" left="4%" width="90%"}
+![](img/outline_black_bigger.png){.absolute .nostretch top="20%" left="4%" width="90%"}
 
-![](img/noun-map-195855-EE9040.svg){.absolute top="8%" width="7%" left="15%"}
+![](img/noun-map-195855-EE9040.svg){.absolute .nostretch top="8%" width="7%" left="15%"}
 
-![](img/noun-find-7985496-EE9040.svg){.absolute top="8%" width="7%" left="44%"}
+![](img/noun-find-7985496-EE9040.svg){.absolute .nostretch top="8%" width="7%" left="44%"}
 
-![](img/noun-data-presentation-4495930-EE9040.svg){.absolute top="8%" width="7%" right="15%"}
+![](img/noun-data-presentation-4495930-EE9040.svg){.absolute .nostretch top="8%" width="7%" right="15%"}
 
 ::: {.fragment .fade-out style="background: #000000; width: 66%; height: 100%; margin: 0px; position: absolute; top: 0%; right: 0%"}
 :::
@@ -205,15 +205,15 @@ Annotation
 
 ## 3D atlases
 ::: {.fragment}
-![](img/elife-65751-video3.mp4){.absolute top="30%" left="0%" width="50%" loop="true" controls="false" autoplay="true" muted="true"}
+![](img/elife-65751-video3.mp4){.absolute .nostretch top="30%" left="0%" width="50%" loop="true" controls="false" autoplay="true" muted="true"}
 :::
 
 ::: {.fragment}
-![](img/3d_atlas.png){.absolute top="24%" right="9%" width="37%"}
+![](img/3d_atlas.png){.absolute .nostretch top="24%" right="9%" width="37%"}
 :::
 
 ## Alignment
-![](img/amap_cropped_hor.png){.absolute top="10%" width="90%" left="5%"}
+![](img/amap_cropped_hor.png){.absolute .nostretch top="10%" width="90%" left="5%"}
 
 ::: {.fragment .fade-out fragment-index=1 style="background: #ffffffff; width: 100%; height: 25%; margin: 0px; position: absolute; bottom: 0%; left: 0%"}
 :::

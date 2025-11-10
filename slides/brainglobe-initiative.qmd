@@ -20,7 +20,7 @@ Established 2020 with three aims:
 
 :::
 ::: {.column width="45%"}
-![](img/tracing.png)
+![](img/tracing.png){.nostretch width="90%"}
 :::
 :::
 
@@ -29,18 +29,18 @@ Established 2020 with three aims:
 ::: {.column .fragment width="50%"}
 <br/>
 
-![](img/noun-5912985-EE9040.svg){width="60%"}
+![](img/noun-5912985-EE9040.svg){.nostretch width="60%"}
 
 Open source and community driven
 :::
 ::: {.column .fragment width="50%"}
 <br/>
 
-![](img/noun-modular-8087926-EE9040.svg){width="60%"}
+![](img/noun-modular-8087926-EE9040.svg){.nostretch width="60%"}
 
 Modular tools that work together
 :::
 :::
 
 ## BrainGlobe Initiative
-![](img/Scientific-Python-Ecosystem.png){.absolute top="20%" left="10%" width="80%"}
+![](img/Scientific-Python-Ecosystem.png){.absolute .nostretch top="20%" left="10%" width="80%"}

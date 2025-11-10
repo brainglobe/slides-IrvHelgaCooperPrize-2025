@@ -17,15 +17,15 @@
 :::
 
 ##
-![](img/image_sc.png){.absolute top="5%" width="85%" left="7.5%"}
+![](img/image_sc.png){.absolute .nostretch top="5%" width="85%" left="7.5%"}
 
 ::: {.footer}
 [https://forum.image.sc/tag/brainglobe](https://forum.image.sc/tag/brainglobe)
 :::
 
 ## Workshops and training
-![](img/OSSS_tutoring.jpg){.absolute top="15%" width="40%" left="5%"}
-![](img/OSSS_working.jpg){.absolute top="15%" width="40%" right="5%"}
+![](img/OSSS_tutoring.jpg){.absolute .nostretch top="15%" width="40%" left="5%"}
+![](img/OSSS_working.jpg){.absolute .nostretch top="15%" width="40%" right="5%"}
 
 ::: {.fragment .absolute top="70%" left="10%" width="80%" style="font-size: 0.7em; text-align: center;"}
 "My whole PhD feels doable now!"<br/> <br/>
@@ -38,7 +38,7 @@
 :::
 
 ##
-![](img/log_normalised_all_by_country.png){.absolute top="20%" width="100%" style="max-width: 100%;"}
+![](img/log_normalised_all_by_country.png){.absolute .nostretch top="20%" width="100%" style="max-width: 100%;"}
 
 ::: {.notes}
 - Download stats from PyPI for all BrainGlobe tools
@@ -50,8 +50,8 @@
 For more information visit: [https://neuroinformatics.dev/open-software-summer-school/](https://neuroinformatics.dev/open-software-summer-school/)
 :::
 
-![](img/OSSS_2026_schedule.png){.absolute top="40%" left="0%" width="100%" style="max-width: 100%;"}
-![](img/OSSS_QR_code.png){.absolute top="15%" right="5%" width="12%"}
+![](img/OSSS_2026_schedule.png){.absolute .nostretch top="40%" left="0%" width="100%" style="max-width: 100%;"}
+![](img/OSSS_QR_code.png){.absolute .nostretch top="15%" right="5%" width="12%"}
 
 ::: {.footer}
 [https://neuroinformatics.dev/open-software-summer-school/](https://neuroinformatics.dev/open-software-summer-school/)
@@ -70,7 +70,7 @@ For more information visit: [https://neuroinformatics.dev/open-software-summer-s
 :::
 
 ## Supporting contributors
-![](img/zulip.png){.absolute width="80%" top="20%" left="10%"}
+![](img/zulip.png){.absolute .nostretch width="80%" top="20%" left="10%"}
 
 ::: {.footer}
 [https://brainglobe.zulipchat.com/](https://brainglobe.zulipchat.com/)
@@ -78,11 +78,11 @@ For more information visit: [https://neuroinformatics.dev/open-software-summer-s
 
 ## Community
 ::: {.fragment}
-![](img/cumulative_engagements.png){.absolute top="25%" left="0%" width="45%"}
+![](img/cumulative_engagements.png){.absolute .nostretch top="25%" left="0%" width="45%"}
 :::
 
 ::: {.fragment}
-![](img/cumulative_unique_users.png){.absolute top="25%" right="0%" width="45%"}
+![](img/cumulative_unique_users.png){.absolute .nostretch top="25%" right="0%" width="45%"}
 :::
 
 ## External tools
