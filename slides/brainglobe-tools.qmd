@@ -553,3 +553,40 @@ Simon Weiler<br/> Dinora Abdulazhanova<br/> Niko Sirmpilatze<br/> Alessandro Fel
 ::: footer
 [Sirmpilatze, N. et al. (2025) "Mapping the magnetoreceptive brain: A 3D digital atlas of the migratory bird Eurasian blackcap (Sylvia atricapilla)" bioRxiv 2025.03.04.641293](https://doi.org/10.1101/2025.03.04.641293)
 :::
+
+## BrainGlobe tools
+
+<br/>
+
+:::: {.columns}
+::: {.column width="33%"}
+![](img/noun-map-195855-EE9040.svg){width="40%" fig-align="center"}
+
+::::: {style="text-align: center; font-size: 0.55em;"}
+[`brainreg`](https://github.com/brainglobe/brainreg)<br/>
+[`brainglobe-atlasapi`](https://github.com/brainglobe/brainglobe-atlasapi)<br/>
+[`brainglobe-registration`](https://github.com/brainglobe/brainglobe-registration)<br/>
+[`brainglobe-template-builder`](https://github.com/brainglobe/brainglobe-template-builder)
+:::::
+:::
+
+::: {.column width="33%"}
+![](img/noun-find-7985496-EE9040.svg){width="40%" fig-align="center"}
+
+::::: {style="text-align: center; font-size: 0.55em;"}
+[`cellfinder`](https://github.com/brainglobe/cellfinder)<br/>
+[`brainmapper`](https://github.com/brainglobe/brainglobe-workflows)<br/>
+[`brainglobe-segmentation`](https://github.com/brainglobe/brainglobe-segmentation)
+:::::
+:::
+
+::: {.column width="33%"}
+![](img/noun-data-presentation-4495930-EE9040.svg){width="40%" fig-align="center"}
+
+::::: {style="text-align: center; font-size: 0.55em;"}
+[`brainrender`](https://github.com/brainglobe/brainrender)<br/>
+[`brainrender-napari`](https://github.com/brainglobe/brainrender-napari)<br/>
+[`brainglobe-heatmap`](https://github.com/brainglobe/brainglobe-heatmap)
+:::::
+:::
+::::
