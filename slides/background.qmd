@@ -106,6 +106,9 @@ Annotation
 ![](img/2d_atlas_fig57.png){.absolute top="25%" right="0%" width="55%"}
 :::
 
+:::: {.fragment style="background: transparent; border: 3px dashed #C00000; padding: 16px; border-radius: 4px; margin: 0px; position: absolute; width: 5%; height: 3%; top: 38%; right: 36%"}
+::::
+
 ##
 ::: {.fragment .absolute top="15%" left="0%" width="30%"}
 ![](img/brain_regions_hip_position_coronal.png)
