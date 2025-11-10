@@ -21,15 +21,22 @@ custom-font-sizes:
 
 {{< include slides/community-building.qmd >}}
 
-## Summary
-::: {.incremental}
-- The BrainGlobe Initiative provides open source tools for computational neuroanatomy
-    - BrainGlobe atlases facilitate interoperability
-    - Modular tools promote reuse
-- Community building is key to expanding access
-    - Ensure tools are maintained and updated to build trust
-    - Provide extensive documentation and tutorials
-    - Be available to support users and contributors
+## BrainGlobe Initiative {.smaller}
+
+::: {.columns}
+::: {.column width="55%"}
+Since 2020:
+
+:::{.incremental}
+1. Developed general-purpose tools to help others build interoperable software for computational neuroanatomy.
+2. Developed specialist software for specific analysis and visualisation needs.
+3. Reduced barriers of entry, and facilitated the building of an ecosystem of computational neuroanatomy tools.
+:::
+
+:::
+::: {.column width="45%"}
+![](img/tracing.png)
+:::
 :::
 
 # Acknowledgements {visibility="hidden"}
