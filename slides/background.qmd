@@ -188,9 +188,9 @@ Annotation
 ## {background-color="black"}
 ![](img/outline_black_bigger.png){.absolute top="20%" left="4%" width="90%"}
 
-![](img/noun-find-7985496-EE9040.svg){.absolute top="8%" width="7%" left="15%"}
+![](img/noun-map-195855-EE9040.svg){.absolute top="8%" width="7%" left="15%"}
 
-![](img/noun-map-195855-EE9040.svg){.absolute top="8%" width="7%" left="44%"}
+![](img/noun-find-7985496-EE9040.svg){.absolute top="8%" width="7%" left="44%"}
 
 ![](img/noun-data-presentation-4495930-EE9040.svg){.absolute top="8%" width="7%" right="15%"}
 
