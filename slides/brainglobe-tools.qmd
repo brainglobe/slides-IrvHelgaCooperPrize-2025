@@ -48,12 +48,12 @@ Luigi Petrucco <br/> Federico Claudi <br/> Adam Tyson
 
 ::: {.fragment .absolute top="15%" left="0%" width="50%" height="85%" style="font-size: 0.7em; text-align: center;"}
 ![](img/2d_atlas_fig25_nissl.png)
-Template image
+Template
 :::
 
 ::: {.fragment .absolute top="15%" right="0%" height="85%" width="50%" style="font-size: 0.7em; text-align: center;"}
 ![](img/2d_atlas_fig25.png)
-Annotations
+Annotation
 :::
 
 ::: footer

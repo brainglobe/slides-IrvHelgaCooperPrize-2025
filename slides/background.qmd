@@ -47,12 +47,12 @@ Our goal at the BrainGlobe Initiative is to accelerate progress in neuroscience 
 
 ::: {.fragment .absolute top="15%" left="0%" width="50%" height="85%" style="font-size: 0.7em; text-align: center;"}
 ![](img/2d_atlas_fig25_nissl.png)
-Template image
+Template
 :::
 
 ::: {.fragment .absolute top="15%" right="0%" height="85%" width="50%" style="font-size: 0.7em; text-align: center;"}
 ![](img/2d_atlas_fig25.png)
-Annotations image
+Annotation
 :::
 
 ## Histology
@@ -239,7 +239,7 @@ A platform that enabled the community to:
 :::{.incremental}
 1. Build tools for whole-brain microscopy data analysis.
 2. Work with multiple species and atlases.
-3. Interoperate with each other.
+3. Collaborate with each other.
 :::
 
 :::
